@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 namespace MenuScripts
 {
@@ -90,6 +91,11 @@ namespace MenuScripts
             shopPanel?.SetActive(false);
             settingsPanel?.SetActive(false);
             loadingPanel?.SetActive(true);
+        }
+
+        public void LoadLabScene()
+        {
+            SceneManager.LoadScene("2_LabScene");
         }
 
         // Seleção de dificuldade
