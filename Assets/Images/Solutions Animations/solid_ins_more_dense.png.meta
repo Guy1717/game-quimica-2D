@@ -1,0 +1,3874 @@
+fileFormatVersion: 2
+guid: 667a166ca0253ec4eb349cdf3ac052a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3843510371051639895
+    second: solid_ins_more_dense_0
+  - first:
+      213: 5208107702870519357
+    second: solid_ins_more_dense_1
+  - first:
+      213: -7865443428193846979
+    second: solid_ins_more_dense_2
+  - first:
+      213: -3288301343482092658
+    second: solid_ins_more_dense_3
+  - first:
+      213: -8547019112456248958
+    second: solid_ins_more_dense_4
+  - first:
+      213: 3531913936885467452
+    second: solid_ins_more_dense_5
+  - first:
+      213: -4050558951063153457
+    second: solid_ins_more_dense_6
+  - first:
+      213: 3231969094809808631
+    second: solid_ins_more_dense_7
+  - first:
+      213: -6739553159044177721
+    second: solid_ins_more_dense_8
+  - first:
+      213: 4145819980650284064
+    second: solid_ins_more_dense_9
+  - first:
+      213: -5804924991287063105
+    second: solid_ins_more_dense_10
+  - first:
+      213: -6420784117564190289
+    second: solid_ins_more_dense_11
+  - first:
+      213: -7717988635696720294
+    second: solid_ins_more_dense_12
+  - first:
+      213: -6392324939210806795
+    second: solid_ins_more_dense_13
+  - first:
+      213: 2664665929549923520
+    second: solid_ins_more_dense_14
+  - first:
+      213: 8833439956079328067
+    second: solid_ins_more_dense_15
+  - first:
+      213: 141240159667233643
+    second: solid_ins_more_dense_16
+  - first:
+      213: 1642341450862045987
+    second: solid_ins_more_dense_17
+  - first:
+      213: -6157923367187058538
+    second: solid_ins_more_dense_18
+  - first:
+      213: -1063758317088972509
+    second: solid_ins_more_dense_19
+  - first:
+      213: 8262182644130557468
+    second: solid_ins_more_dense_20
+  - first:
+      213: -2235437276717514562
+    second: solid_ins_more_dense_21
+  - first:
+      213: -3879057365409456682
+    second: solid_ins_more_dense_22
+  - first:
+      213: 6689741982131707677
+    second: solid_ins_more_dense_23
+  - first:
+      213: 5305720310345036411
+    second: solid_ins_more_dense_24
+  - first:
+      213: -8216034577300440982
+    second: solid_ins_more_dense_25
+  - first:
+      213: -822912293576111008
+    second: solid_ins_more_dense_26
+  - first:
+      213: 1077657484668362907
+    second: solid_ins_more_dense_27
+  - first:
+      213: 5355640533400012576
+    second: solid_ins_more_dense_28
+  - first:
+      213: -8481401059367116645
+    second: solid_ins_more_dense_29
+  - first:
+      213: 1116035187737100245
+    second: solid_ins_more_dense_30
+  - first:
+      213: 9007917463108509590
+    second: solid_ins_more_dense_31
+  - first:
+      213: -7864041711516395360
+    second: solid_ins_more_dense_32
+  - first:
+      213: 209358939327428562
+    second: solid_ins_more_dense_33
+  - first:
+      213: 8557610812908007158
+    second: solid_ins_more_dense_34
+  - first:
+      213: 1915056450720089389
+    second: solid_ins_more_dense_35
+  - first:
+      213: -6796107728765713567
+    second: solid_ins_more_dense_36
+  - first:
+      213: 1505870849324578897
+    second: solid_ins_more_dense_37
+  - first:
+      213: 557101438444255467
+    second: solid_ins_more_dense_38
+  - first:
+      213: 5070590472117378654
+    second: solid_ins_more_dense_39
+  - first:
+      213: 4764607513619762388
+    second: solid_ins_more_dense_40
+  - first:
+      213: 6362940035687686832
+    second: solid_ins_more_dense_41
+  - first:
+      213: -1616601412540348134
+    second: solid_ins_more_dense_42
+  - first:
+      213: 7563628127787171276
+    second: solid_ins_more_dense_43
+  - first:
+      213: -2998068136145811006
+    second: solid_ins_more_dense_44
+  - first:
+      213: -8239381895049066804
+    second: solid_ins_more_dense_45
+  - first:
+      213: -8820307470292322021
+    second: solid_ins_more_dense_46
+  - first:
+      213: 4855248880261337688
+    second: solid_ins_more_dense_47
+  - first:
+      213: 8211626907527299231
+    second: solid_ins_more_dense_48
+  - first:
+      213: 934220400356607165
+    second: solid_ins_more_dense_49
+  - first:
+      213: 5133786415151471043
+    second: solid_ins_more_dense_50
+  - first:
+      213: -4538367169850178890
+    second: solid_ins_more_dense_51
+  - first:
+      213: -8322398034342335851
+    second: solid_ins_more_dense_52
+  - first:
+      213: -6832160150345041340
+    second: solid_ins_more_dense_53
+  - first:
+      213: -4808772066203055663
+    second: solid_ins_more_dense_54
+  - first:
+      213: -7690674568364232197
+    second: solid_ins_more_dense_55
+  - first:
+      213: 6839834564435032664
+    second: solid_ins_more_dense_56
+  - first:
+      213: -2352331513828375370
+    second: solid_ins_more_dense_57
+  - first:
+      213: 8761442181944243769
+    second: solid_ins_more_dense_58
+  - first:
+      213: 8024801464991484304
+    second: solid_ins_more_dense_59
+  - first:
+      213: 8029666603435449434
+    second: solid_ins_more_dense_60
+  - first:
+      213: -8706700450919747162
+    second: solid_ins_more_dense_61
+  - first:
+      213: 6893214226638428486
+    second: solid_ins_more_dense_62
+  - first:
+      213: -1559930321894450956
+    second: solid_ins_more_dense_63
+  - first:
+      213: 7964350194404396405
+    second: solid_ins_more_dense_64
+  - first:
+      213: 3368043555472016804
+    second: solid_ins_more_dense_65
+  - first:
+      213: 7156966177468826750
+    second: solid_ins_more_dense_66
+  - first:
+      213: -8827647442499981307
+    second: solid_ins_more_dense_67
+  - first:
+      213: 4200462900060310953
+    second: solid_ins_more_dense_68
+  - first:
+      213: 6029244198317776524
+    second: solid_ins_more_dense_69
+  - first:
+      213: 536950710952175563
+    second: solid_ins_more_dense_70
+  - first:
+      213: -1445542680267448575
+    second: solid_ins_more_dense_71
+  - first:
+      213: -2101754776626467275
+    second: solid_ins_more_dense_72
+  - first:
+      213: 8426495630755339766
+    second: solid_ins_more_dense_73
+  - first:
+      213: 7954275265663054171
+    second: solid_ins_more_dense_74
+  - first:
+      213: 5073305937787400201
+    second: solid_ins_more_dense_75
+  - first:
+      213: 3405801614718340704
+    second: solid_ins_more_dense_76
+  - first:
+      213: -554001664148852334
+    second: solid_ins_more_dense_77
+  - first:
+      213: 3301307083590107430
+    second: solid_ins_more_dense_78
+  - first:
+      213: 1829849954194352948
+    second: solid_ins_more_dense_79
+  - first:
+      213: 1880082596902026316
+    second: solid_ins_more_dense_80
+  - first:
+      213: 6684598054018926776
+    second: solid_ins_more_dense_81
+  - first:
+      213: -6315478759873984040
+    second: solid_ins_more_dense_82
+  - first:
+      213: -4802867722250141288
+    second: solid_ins_more_dense_83
+  - first:
+      213: 5525055943330766588
+    second: solid_ins_more_dense_84
+  - first:
+      213: -1332474031552434295
+    second: solid_ins_more_dense_85
+  - first:
+      213: -7516421624195013395
+    second: solid_ins_more_dense_86
+  - first:
+      213: 4950322218944532615
+    second: solid_ins_more_dense_87
+  - first:
+      213: -6333242248527998677
+    second: solid_ins_more_dense_88
+  - first:
+      213: 7837167995551956829
+    second: solid_ins_more_dense_89
+  - first:
+      213: -8980257983536608443
+    second: solid_ins_more_dense_90
+  - first:
+      213: -9180769212956378555
+    second: solid_ins_more_dense_91
+  - first:
+      213: 7992501657684647910
+    second: solid_ins_more_dense_92
+  - first:
+      213: -1885204040383759811
+    second: solid_ins_more_dense_93
+  - first:
+      213: 8263799336907747069
+    second: solid_ins_more_dense_94
+  - first:
+      213: 4970988219982203443
+    second: solid_ins_more_dense_95
+  - first:
+      213: -9115944598228361288
+    second: solid_ins_more_dense_96
+  - first:
+      213: -1290444143909466807
+    second: solid_ins_more_dense_97
+  - first:
+      213: -570056574749381516
+    second: solid_ins_more_dense_98
+  - first:
+      213: 2531812743973430435
+    second: solid_ins_more_dense_99
+  - first:
+      213: -1316393637231142069
+    second: solid_ins_more_dense_100
+  - first:
+      213: 5528877953789293324
+    second: solid_ins_more_dense_101
+  - first:
+      213: 6176776558711548674
+    second: solid_ins_more_dense_102
+  - first:
+      213: 9110965082930478046
+    second: solid_ins_more_dense_103
+  - first:
+      213: 6306207065725040374
+    second: solid_ins_more_dense_104
+  - first:
+      213: -1800594917038396540
+    second: solid_ins_more_dense_105
+  - first:
+      213: 3143978966095506992
+    second: solid_ins_more_dense_106
+  - first:
+      213: -1081832989689048997
+    second: solid_ins_more_dense_107
+  - first:
+      213: -5628668878025796059
+    second: solid_ins_more_dense_108
+  - first:
+      213: 1329399575809955446
+    second: solid_ins_more_dense_109
+  - first:
+      213: 6077530943562059463
+    second: solid_ins_more_dense_110
+  - first:
+      213: 4231086181065418328
+    second: solid_ins_more_dense_111
+  - first:
+      213: 6124264168948536974
+    second: solid_ins_more_dense_112
+  - first:
+      213: -4474258164322238770
+    second: solid_ins_more_dense_113
+  - first:
+      213: 9112572204226689294
+    second: solid_ins_more_dense_114
+  - first:
+      213: 4356242461582311317
+    second: solid_ins_more_dense_115
+  - first:
+      213: -7119062933690242248
+    second: solid_ins_more_dense_116
+  - first:
+      213: -7807217853489812907
+    second: solid_ins_more_dense_117
+  - first:
+      213: 7937632427477052747
+    second: solid_ins_more_dense_118
+  - first:
+      213: -981438078972918985
+    second: solid_ins_more_dense_119
+  - first:
+      213: -5836637822687326519
+    second: solid_ins_more_dense_120
+  - first:
+      213: -3840950240509905138
+    second: solid_ins_more_dense_121
+  - first:
+      213: 4841885032854272965
+    second: solid_ins_more_dense_122
+  - first:
+      213: -7814594980014287514
+    second: solid_ins_more_dense_123
+  - first:
+      213: -411741400838946236
+    second: solid_ins_more_dense_124
+  - first:
+      213: 752853641966149388
+    second: solid_ins_more_dense_125
+  - first:
+      213: -4310230203769239941
+    second: solid_ins_more_dense_126
+  - first:
+      213: -8580999247457484931
+    second: solid_ins_more_dense_127
+  - first:
+      213: 8313066793839950394
+    second: solid_ins_more_dense_128
+  - first:
+      213: 8360896413998851117
+    second: solid_ins_more_dense_129
+  - first:
+      213: -8497465269240480982
+    second: solid_ins_more_dense_130
+  - first:
+      213: 411801473858060902
+    second: solid_ins_more_dense_131
+  - first:
+      213: 3873258350970295422
+    second: solid_ins_more_dense_132
+  - first:
+      213: 6728877387068347976
+    second: solid_ins_more_dense_133
+  - first:
+      213: 5966620273715918870
+    second: solid_ins_more_dense_134
+  - first:
+      213: 8804640647468619468
+    second: solid_ins_more_dense_135
+  - first:
+      213: -2653371688356331901
+    second: solid_ins_more_dense_136
+  - first:
+      213: -4636406805521721950
+    second: solid_ins_more_dense_137
+  - first:
+      213: 7738945949512513435
+    second: solid_ins_more_dense_138
+  - first:
+      213: 5152788915540435583
+    second: solid_ins_more_dense_139
+  - first:
+      213: 4661760336155605670
+    second: solid_ins_more_dense_140
+  - first:
+      213: 426993748758863684
+    second: solid_ins_more_dense_141
+  - first:
+      213: 4845711146694265131
+    second: solid_ins_more_dense_142
+  - first:
+      213: -4086786267575191391
+    second: solid_ins_more_dense_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: solid_ins_more_dense_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abefea6eab19aac0800000000000000
+      internalID: -3843510371051639895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ea29dac5ae64840800000000000000
+      internalID: 5208107702870519357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39339dffd458d290800000000000000
+      internalID: -7865443428193846979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_3
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e836f4ba95b9d52d0800000000000000
+      internalID: -3288301343482092658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_4
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2812299b663e26980800000000000000
+      internalID: -8547019112456248958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_5
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c394f414301e30130800000000000000
+      internalID: 3531913936885467452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_6
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc41a14481689c7c0800000000000000
+      internalID: -4050558951063153457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_7
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feed2d94c24adc20800000000000000
+      internalID: 3231969094809808631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_8
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06f4a0c1c4872a0800000000000000
+      internalID: -6739553159044177721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_9
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02480619e49e88930800000000000000
+      internalID: 4145819980650284064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_10
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd0c8ae973c07fa0800000000000000
+      internalID: -5804924991287063105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_11
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1dd152ddac4e6a0800000000000000
+      internalID: -6420784117564190289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a569bcc3a3234e490800000000000000
+      internalID: -7717988635696720294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f92875f556e947a0800000000000000
+      internalID: -6392324939210806795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c8ef7b8bcaf420800000000000000
+      internalID: 2664665929549923520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_15
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb9d6a6dea69a70800000000000000
+      internalID: 8833439956079328067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_16
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b632cf84d29c5f100800000000000000
+      internalID: 141240159667233643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_17
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b288a19d4cac610800000000000000
+      internalID: 1642341450862045987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_18
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690fcb8d259aa8aa0800000000000000
+      internalID: -6157923367187058538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_19
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3216b075275cc31f0800000000000000
+      internalID: -1063758317088972509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_20
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eacc4075b29a270800000000000000
+      internalID: 8262182644130557468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_21
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0069304a12af0e0800000000000000
+      internalID: -2235437276717514562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_22
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd1867d0e1da2ac0800000000000000
+      internalID: -3879057365409456682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_23
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f5af393ecb6dc50800000000000000
+      internalID: 6689741982131707677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72f0b7e284b1a940800000000000000
+      internalID: 5305720310345036411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a683ea51518cafd80800000000000000
+      internalID: -8216034577300440982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_26
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c081401ad6494f0800000000000000
+      internalID: -822912293576111008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_27
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90e23bc5cb94fe00800000000000000
+      internalID: 1077657484668362907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_28
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027cdf190be035a40800000000000000
+      internalID: 5355640533400012576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_29
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b902dc24ca20c4a80800000000000000
+      internalID: -8481401059367116645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_30
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff7e91714fc7f00800000000000000
+      internalID: 1116035187737100245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_31
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fde9ae43d820d70800000000000000
+      internalID: 9007917463108509590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_32
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d5369abf4dd290800000000000000
+      internalID: -7864041711516395360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_33
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7f92998dac7e200800000000000000
+      internalID: 209358939327428562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_34
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe6c65b1bdb2c670800000000000000
+      internalID: 8557610812908007158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_35
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25cdfd02b5a39a10800000000000000
+      internalID: 1915056450720089389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16302ab27006fa1a0800000000000000
+      internalID: -6796107728765713567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_37
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1587b9b1f8de5e410800000000000000
+      internalID: 1505870849324578897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_38
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8345e7ec83bb700800000000000000
+      internalID: 557101438444255467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_39
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e59045b2b5e5640800000000000000
+      internalID: 5070590472117378654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_40
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc86772a494f1240800000000000000
+      internalID: 4764607513619762388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_41
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2a64a0044bd4850800000000000000
+      internalID: 6362940035687686832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_42
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194326949da099e0800000000000000
+      internalID: -1616601412540348134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_43
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd38e955b767f860800000000000000
+      internalID: 7563628127787171276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_44
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c98c942ae8b466d0800000000000000
+      internalID: -2998068136145811006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_45
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6c0d012d5d7ad80800000000000000
+      internalID: -8239381895049066804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_46
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1970877619f79580800000000000000
+      internalID: -8820307470292322021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_47
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8521714e12f416340800000000000000
+      internalID: 4855248880261337688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9044335a2f85f170800000000000000
+      internalID: 8211626907527299231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4cd21218407fc00800000000000000
+      internalID: 934220400356607165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_50
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c954db6b8fde3740800000000000000
+      internalID: 5133786415151471043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_51
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b209c4ba1b7401c0800000000000000
+      internalID: -4538367169850178890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_52
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aad9be417e08c80800000000000000
+      internalID: -8322398034342335851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_53
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aba16aa8a4f21a0800000000000000
+      internalID: -6832160150345041340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_54
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d94524a84fc34db0800000000000000
+      internalID: -4808772066203055663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_55
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1f48d1a3c354590800000000000000
+      internalID: -7690674568364232197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_56
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ab69f1c49fbee50800000000000000
+      internalID: 6839834564435032664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_57
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b48d4c83f6da5fd0800000000000000
+      internalID: -2352331513828375370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_58
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936f8ee8e35e69970800000000000000
+      internalID: 8761442181944243769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_59
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0990ad94a62dd5f60800000000000000
+      internalID: 8024801464991484304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c569a9b3b1f6f60800000000000000
+      internalID: 8029666603435449434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_61
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1f139e1169b2780800000000000000
+      internalID: -8706700450919747162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_62
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649d37b31dd99af50800000000000000
+      internalID: 6893214226638428486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_63
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8de1913a30a5ae0800000000000000
+      internalID: -1559930321894450956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_64
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d894c0e4e078e60800000000000000
+      internalID: 7964350194404396405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_65
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a504ffd4c1bdbe20800000000000000
+      internalID: 3368043555472016804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_66
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74c385b1d6a25360800000000000000
+      internalID: 7156966177468826750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_67
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50037630c65ed7580800000000000000
+      internalID: -8827647442499981307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_68
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad4d4aa0ca0b4a30800000000000000
+      internalID: 4200462900060310953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_69
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed0d077ad2ca350800000000000000
+      internalID: 6029244198317776524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_70
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7a234a3d1a37700800000000000000
+      internalID: 536950710952175563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_71
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f1ef2579660fbe0800000000000000
+      internalID: -1445542680267448575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee23e8a2115d2e0800000000000000
+      internalID: -2101754776626467275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_73
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd9d84712de0f470800000000000000
+      internalID: 8426495630755339766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_74
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b587e533436e60800000000000000
+      internalID: 7954275265663054171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_75
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900b2b2fed0086640800000000000000
+      internalID: 5073305937787400201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_76
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e0dbc1686d34f20800000000000000
+      internalID: 3405801614718340704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_77
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291be63fb6acf48f0800000000000000
+      internalID: -554001664148852334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_78
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6218edb2d4990dd20800000000000000
+      internalID: 3301307083590107430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_79
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be400a6dee46910800000000000000
+      internalID: 1829849954194352948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_80
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c3db82925671a10800000000000000
+      internalID: 1880082596902026316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_81
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8c01c738674cc50800000000000000
+      internalID: 6684598054018926776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_82
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9cf2b5789ea58a0800000000000000
+      internalID: -6315478759873984040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_83
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8914718d049c85db0800000000000000
+      internalID: -4802867722250141288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe14628b11fcac40800000000000000
+      internalID: 5525055943330766588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_85
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f62e49de9128de0800000000000000
+      internalID: -1332474031552434295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_86
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4aac34b5e40b790800000000000000
+      internalID: -7516421624195013395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_87
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78099e784d313b440800000000000000
+      internalID: 4950322218944532615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_88
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b211efbdabdcb18a0800000000000000
+      internalID: -6333242248527998677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_89
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f3fe3d4c633cc60800000000000000
+      internalID: 7837167995551956829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_90
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b4fe381f6bf5380800000000000000
+      internalID: -8980257983536608443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_91
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a74e8ea0b579080800000000000000
+      internalID: -9180769212956378555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_92
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef930d59e11bee60800000000000000
+      internalID: 7992501657684647910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_93
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a7bcbd9e866d5e0800000000000000
+      internalID: -1885204040383759811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_94
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeae73a6b9eea270800000000000000
+      internalID: 8263799336907747069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_95
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ac0bad27f7cf440800000000000000
+      internalID: 4970988219982203443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf157eafa8ad7180800000000000000
+      internalID: -9115944598228361288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_97
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d0bcf53eb671ee0800000000000000
+      internalID: -1290444143909466807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_98
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cef28c090c618f0800000000000000
+      internalID: -570056574749381516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_99
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4e75ac64ec22320800000000000000
+      internalID: 2531812743973430435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_100
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bd04426fa3bbde0800000000000000
+      internalID: -1316393637231142069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_101
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03791aa4358abc40800000000000000
+      internalID: 5528877953789293324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_102
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b26fedd8158b550800000000000000
+      internalID: 6176776558711548674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_103
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbfe019876a07e70800000000000000
+      internalID: 9110965082930478046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_104
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f679902ae5248750800000000000000
+      internalID: 6306207065725040374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_105
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b6d8186700307e0800000000000000
+      internalID: -1800594917038396540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_106
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e2c6f4638a1ab20800000000000000
+      internalID: 3143978966095506992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_107
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50194fa0ae8cf0f0800000000000000
+      internalID: -1081832989689048997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d9f63a73f2e1b0800000000000000
+      internalID: -5628668878025796059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_109
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67615b8eed9f27210800000000000000
+      internalID: 1329399575809955446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_110
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce067a613ab75450800000000000000
+      internalID: 6077530943562059463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_111
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856e774e676d7ba30800000000000000
+      internalID: 4231086181065418328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_112
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8694dc50d1cdf450800000000000000
+      internalID: 6124264168948536974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_113
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece7e2ab7ed38e1c0800000000000000
+      internalID: -4474258164322238770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_114
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09b707a32c567e70800000000000000
+      internalID: 9112572204226689294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_115
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f361e307b747c30800000000000000
+      internalID: 4356242461582311317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_116
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b2ebfeaf1043d90800000000000000
+      internalID: -7119062933690242248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_117
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ae6a60ab037a390800000000000000
+      internalID: -7807217853489812907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_118
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d246d23a2282e60800000000000000
+      internalID: 7937632427477052747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_119
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73307cd544b3162f0800000000000000
+      internalID: -981438078972918985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cecc18f2d8100fa0800000000000000
+      internalID: -5836637822687326519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_121
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07b4724b1432bac0800000000000000
+      internalID: -3840950240509905138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_122
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3f82b8c4d13340800000000000000
+      internalID: 4841885032854272965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_123
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66592b8e44bfc8390800000000000000
+      internalID: -7814594980014287514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_124
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4424caf9063394af0800000000000000
+      internalID: -411741400838946236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_125
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f5049066ca27a00800000000000000
+      internalID: 752853641966149388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_126
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76cc2c577cfe24c0800000000000000
+      internalID: -4310230203769239941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_127
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ff66506aa2ae880800000000000000
+      internalID: -8580999247457484931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_128
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afce85432fd5370800000000000000
+      internalID: 8313066793839950394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_129
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d242d389dfed70470800000000000000
+      internalID: 8360896413998851117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_130
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb3bfeb50f21a80800000000000000
+      internalID: -8497465269240480982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_131
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ca47324307b500800000000000000
+      internalID: 411801473858060902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7456e4e2f390c530800000000000000
+      internalID: 3873258350970295422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_133
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8461e591556c16d50800000000000000
+      internalID: 6728877387068347976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_134
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6183b74c681bdc250800000000000000
+      internalID: 5966620273715918870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_135
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc61557150e503a70800000000000000
+      internalID: 8804640647468619468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_136
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e3172f1845d2bd0800000000000000
+      internalID: -2653371688356331901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_137
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a59caa339c28afb0800000000000000
+      internalID: -4636406805521721950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_138
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9734a0a652466b60800000000000000
+      internalID: 7738945949512513435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_139
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72ab51d732628740800000000000000
+      internalID: 5152788915540435583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_140
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7f80a356e1b040800000000000000
+      internalID: 4661760336155605670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_141
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f951c5d8cfce500800000000000000
+      internalID: 426993748758863684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_142
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29ccde3d9c6f3340800000000000000
+      internalID: 4845711146694265131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_ins_more_dense_143
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a87c38da81d847c0800000000000000
+      internalID: -4086786267575191391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      solid_ins_more_dense_0: -3843510371051639895
+      solid_ins_more_dense_1: 5208107702870519357
+      solid_ins_more_dense_10: -5804924991287063105
+      solid_ins_more_dense_100: -1316393637231142069
+      solid_ins_more_dense_101: 5528877953789293324
+      solid_ins_more_dense_102: 6176776558711548674
+      solid_ins_more_dense_103: 9110965082930478046
+      solid_ins_more_dense_104: 6306207065725040374
+      solid_ins_more_dense_105: -1800594917038396540
+      solid_ins_more_dense_106: 3143978966095506992
+      solid_ins_more_dense_107: -1081832989689048997
+      solid_ins_more_dense_108: -5628668878025796059
+      solid_ins_more_dense_109: 1329399575809955446
+      solid_ins_more_dense_11: -6420784117564190289
+      solid_ins_more_dense_110: 6077530943562059463
+      solid_ins_more_dense_111: 4231086181065418328
+      solid_ins_more_dense_112: 6124264168948536974
+      solid_ins_more_dense_113: -4474258164322238770
+      solid_ins_more_dense_114: 9112572204226689294
+      solid_ins_more_dense_115: 4356242461582311317
+      solid_ins_more_dense_116: -7119062933690242248
+      solid_ins_more_dense_117: -7807217853489812907
+      solid_ins_more_dense_118: 7937632427477052747
+      solid_ins_more_dense_119: -981438078972918985
+      solid_ins_more_dense_12: -7717988635696720294
+      solid_ins_more_dense_120: -5836637822687326519
+      solid_ins_more_dense_121: -3840950240509905138
+      solid_ins_more_dense_122: 4841885032854272965
+      solid_ins_more_dense_123: -7814594980014287514
+      solid_ins_more_dense_124: -411741400838946236
+      solid_ins_more_dense_125: 752853641966149388
+      solid_ins_more_dense_126: -4310230203769239941
+      solid_ins_more_dense_127: -8580999247457484931
+      solid_ins_more_dense_128: 8313066793839950394
+      solid_ins_more_dense_129: 8360896413998851117
+      solid_ins_more_dense_13: -6392324939210806795
+      solid_ins_more_dense_130: -8497465269240480982
+      solid_ins_more_dense_131: 411801473858060902
+      solid_ins_more_dense_132: 3873258350970295422
+      solid_ins_more_dense_133: 6728877387068347976
+      solid_ins_more_dense_134: 5966620273715918870
+      solid_ins_more_dense_135: 8804640647468619468
+      solid_ins_more_dense_136: -2653371688356331901
+      solid_ins_more_dense_137: -4636406805521721950
+      solid_ins_more_dense_138: 7738945949512513435
+      solid_ins_more_dense_139: 5152788915540435583
+      solid_ins_more_dense_14: 2664665929549923520
+      solid_ins_more_dense_140: 4661760336155605670
+      solid_ins_more_dense_141: 426993748758863684
+      solid_ins_more_dense_142: 4845711146694265131
+      solid_ins_more_dense_143: -4086786267575191391
+      solid_ins_more_dense_15: 8833439956079328067
+      solid_ins_more_dense_16: 141240159667233643
+      solid_ins_more_dense_17: 1642341450862045987
+      solid_ins_more_dense_18: -6157923367187058538
+      solid_ins_more_dense_19: -1063758317088972509
+      solid_ins_more_dense_2: -7865443428193846979
+      solid_ins_more_dense_20: 8262182644130557468
+      solid_ins_more_dense_21: -2235437276717514562
+      solid_ins_more_dense_22: -3879057365409456682
+      solid_ins_more_dense_23: 6689741982131707677
+      solid_ins_more_dense_24: 5305720310345036411
+      solid_ins_more_dense_25: -8216034577300440982
+      solid_ins_more_dense_26: -822912293576111008
+      solid_ins_more_dense_27: 1077657484668362907
+      solid_ins_more_dense_28: 5355640533400012576
+      solid_ins_more_dense_29: -8481401059367116645
+      solid_ins_more_dense_3: -3288301343482092658
+      solid_ins_more_dense_30: 1116035187737100245
+      solid_ins_more_dense_31: 9007917463108509590
+      solid_ins_more_dense_32: -7864041711516395360
+      solid_ins_more_dense_33: 209358939327428562
+      solid_ins_more_dense_34: 8557610812908007158
+      solid_ins_more_dense_35: 1915056450720089389
+      solid_ins_more_dense_36: -6796107728765713567
+      solid_ins_more_dense_37: 1505870849324578897
+      solid_ins_more_dense_38: 557101438444255467
+      solid_ins_more_dense_39: 5070590472117378654
+      solid_ins_more_dense_4: -8547019112456248958
+      solid_ins_more_dense_40: 4764607513619762388
+      solid_ins_more_dense_41: 6362940035687686832
+      solid_ins_more_dense_42: -1616601412540348134
+      solid_ins_more_dense_43: 7563628127787171276
+      solid_ins_more_dense_44: -2998068136145811006
+      solid_ins_more_dense_45: -8239381895049066804
+      solid_ins_more_dense_46: -8820307470292322021
+      solid_ins_more_dense_47: 4855248880261337688
+      solid_ins_more_dense_48: 8211626907527299231
+      solid_ins_more_dense_49: 934220400356607165
+      solid_ins_more_dense_5: 3531913936885467452
+      solid_ins_more_dense_50: 5133786415151471043
+      solid_ins_more_dense_51: -4538367169850178890
+      solid_ins_more_dense_52: -8322398034342335851
+      solid_ins_more_dense_53: -6832160150345041340
+      solid_ins_more_dense_54: -4808772066203055663
+      solid_ins_more_dense_55: -7690674568364232197
+      solid_ins_more_dense_56: 6839834564435032664
+      solid_ins_more_dense_57: -2352331513828375370
+      solid_ins_more_dense_58: 8761442181944243769
+      solid_ins_more_dense_59: 8024801464991484304
+      solid_ins_more_dense_6: -4050558951063153457
+      solid_ins_more_dense_60: 8029666603435449434
+      solid_ins_more_dense_61: -8706700450919747162
+      solid_ins_more_dense_62: 6893214226638428486
+      solid_ins_more_dense_63: -1559930321894450956
+      solid_ins_more_dense_64: 7964350194404396405
+      solid_ins_more_dense_65: 3368043555472016804
+      solid_ins_more_dense_66: 7156966177468826750
+      solid_ins_more_dense_67: -8827647442499981307
+      solid_ins_more_dense_68: 4200462900060310953
+      solid_ins_more_dense_69: 6029244198317776524
+      solid_ins_more_dense_7: 3231969094809808631
+      solid_ins_more_dense_70: 536950710952175563
+      solid_ins_more_dense_71: -1445542680267448575
+      solid_ins_more_dense_72: -2101754776626467275
+      solid_ins_more_dense_73: 8426495630755339766
+      solid_ins_more_dense_74: 7954275265663054171
+      solid_ins_more_dense_75: 5073305937787400201
+      solid_ins_more_dense_76: 3405801614718340704
+      solid_ins_more_dense_77: -554001664148852334
+      solid_ins_more_dense_78: 3301307083590107430
+      solid_ins_more_dense_79: 1829849954194352948
+      solid_ins_more_dense_8: -6739553159044177721
+      solid_ins_more_dense_80: 1880082596902026316
+      solid_ins_more_dense_81: 6684598054018926776
+      solid_ins_more_dense_82: -6315478759873984040
+      solid_ins_more_dense_83: -4802867722250141288
+      solid_ins_more_dense_84: 5525055943330766588
+      solid_ins_more_dense_85: -1332474031552434295
+      solid_ins_more_dense_86: -7516421624195013395
+      solid_ins_more_dense_87: 4950322218944532615
+      solid_ins_more_dense_88: -6333242248527998677
+      solid_ins_more_dense_89: 7837167995551956829
+      solid_ins_more_dense_9: 4145819980650284064
+      solid_ins_more_dense_90: -8980257983536608443
+      solid_ins_more_dense_91: -9180769212956378555
+      solid_ins_more_dense_92: 7992501657684647910
+      solid_ins_more_dense_93: -1885204040383759811
+      solid_ins_more_dense_94: 8263799336907747069
+      solid_ins_more_dense_95: 4970988219982203443
+      solid_ins_more_dense_96: -9115944598228361288
+      solid_ins_more_dense_97: -1290444143909466807
+      solid_ins_more_dense_98: -570056574749381516
+      solid_ins_more_dense_99: 2531812743973430435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

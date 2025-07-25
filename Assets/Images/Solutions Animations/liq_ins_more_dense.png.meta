@@ -1,0 +1,3874 @@
+fileFormatVersion: 2
+guid: a02bb926198954b48a4d46a4835ea550
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2095384802561448349
+    second: liq_ins_more_dense_0
+  - first:
+      213: -4879483048201185870
+    second: liq_ins_more_dense_1
+  - first:
+      213: -8829157271309089481
+    second: liq_ins_more_dense_2
+  - first:
+      213: -1728715893987371282
+    second: liq_ins_more_dense_3
+  - first:
+      213: 4542882901158027435
+    second: liq_ins_more_dense_4
+  - first:
+      213: -6829678001318700643
+    second: liq_ins_more_dense_5
+  - first:
+      213: -8024671568274619152
+    second: liq_ins_more_dense_6
+  - first:
+      213: -5530953326470872674
+    second: liq_ins_more_dense_7
+  - first:
+      213: 4857982402216224313
+    second: liq_ins_more_dense_8
+  - first:
+      213: 2487525499079980918
+    second: liq_ins_more_dense_9
+  - first:
+      213: -4496656133440914622
+    second: liq_ins_more_dense_10
+  - first:
+      213: 8728056395099281475
+    second: liq_ins_more_dense_11
+  - first:
+      213: -8221779458588482779
+    second: liq_ins_more_dense_12
+  - first:
+      213: 212764621651711722
+    second: liq_ins_more_dense_13
+  - first:
+      213: -4539377335462114076
+    second: liq_ins_more_dense_14
+  - first:
+      213: 7286770318270877553
+    second: liq_ins_more_dense_15
+  - first:
+      213: -660916148819107995
+    second: liq_ins_more_dense_16
+  - first:
+      213: 8259982210801173770
+    second: liq_ins_more_dense_17
+  - first:
+      213: -211313164533979755
+    second: liq_ins_more_dense_18
+  - first:
+      213: -3020892813724182468
+    second: liq_ins_more_dense_19
+  - first:
+      213: -8002787644266122049
+    second: liq_ins_more_dense_20
+  - first:
+      213: 2363703010056399483
+    second: liq_ins_more_dense_21
+  - first:
+      213: 6602082503032402841
+    second: liq_ins_more_dense_22
+  - first:
+      213: 955834357796167052
+    second: liq_ins_more_dense_23
+  - first:
+      213: 7323247527206204594
+    second: liq_ins_more_dense_24
+  - first:
+      213: -7812089740279406292
+    second: liq_ins_more_dense_25
+  - first:
+      213: -2437579833412675491
+    second: liq_ins_more_dense_26
+  - first:
+      213: -6284930818589152526
+    second: liq_ins_more_dense_27
+  - first:
+      213: -3582738539980294372
+    second: liq_ins_more_dense_28
+  - first:
+      213: -2278313289888945814
+    second: liq_ins_more_dense_29
+  - first:
+      213: 7797438999146738237
+    second: liq_ins_more_dense_30
+  - first:
+      213: 6803635179464355063
+    second: liq_ins_more_dense_31
+  - first:
+      213: 1467236034931804521
+    second: liq_ins_more_dense_32
+  - first:
+      213: -8510816974141932035
+    second: liq_ins_more_dense_33
+  - first:
+      213: 991711360657352698
+    second: liq_ins_more_dense_34
+  - first:
+      213: 7187090886870320879
+    second: liq_ins_more_dense_35
+  - first:
+      213: -8464777510345426707
+    second: liq_ins_more_dense_36
+  - first:
+      213: 4162820001334123669
+    second: liq_ins_more_dense_37
+  - first:
+      213: -6923929396219929315
+    second: liq_ins_more_dense_38
+  - first:
+      213: -209926937686388393
+    second: liq_ins_more_dense_39
+  - first:
+      213: -2969472746970082044
+    second: liq_ins_more_dense_40
+  - first:
+      213: -6106334263203105137
+    second: liq_ins_more_dense_41
+  - first:
+      213: 3377580056535915393
+    second: liq_ins_more_dense_42
+  - first:
+      213: 2149195461063108049
+    second: liq_ins_more_dense_43
+  - first:
+      213: 3076597886590064093
+    second: liq_ins_more_dense_44
+  - first:
+      213: -3057983382985361820
+    second: liq_ins_more_dense_45
+  - first:
+      213: -8214972163845960676
+    second: liq_ins_more_dense_46
+  - first:
+      213: -6304950946780895519
+    second: liq_ins_more_dense_47
+  - first:
+      213: -7801540070565414628
+    second: liq_ins_more_dense_48
+  - first:
+      213: -7154752112746330904
+    second: liq_ins_more_dense_49
+  - first:
+      213: 1911243166776432500
+    second: liq_ins_more_dense_50
+  - first:
+      213: -2572378925768521534
+    second: liq_ins_more_dense_51
+  - first:
+      213: -2188954038546421864
+    second: liq_ins_more_dense_52
+  - first:
+      213: 8549404005721237988
+    second: liq_ins_more_dense_53
+  - first:
+      213: -8313137077551372897
+    second: liq_ins_more_dense_54
+  - first:
+      213: -7355127116437992299
+    second: liq_ins_more_dense_55
+  - first:
+      213: 1260291906617989779
+    second: liq_ins_more_dense_56
+  - first:
+      213: 7246680250894971871
+    second: liq_ins_more_dense_57
+  - first:
+      213: -1409975194466517937
+    second: liq_ins_more_dense_58
+  - first:
+      213: 4852180945442605189
+    second: liq_ins_more_dense_59
+  - first:
+      213: 6449563020401322613
+    second: liq_ins_more_dense_60
+  - first:
+      213: -3168634427407891163
+    second: liq_ins_more_dense_61
+  - first:
+      213: 6831688220416777993
+    second: liq_ins_more_dense_62
+  - first:
+      213: -3586180760231385530
+    second: liq_ins_more_dense_63
+  - first:
+      213: -5137668108331684343
+    second: liq_ins_more_dense_64
+  - first:
+      213: 419106777590735587
+    second: liq_ins_more_dense_65
+  - first:
+      213: -6422723733816873980
+    second: liq_ins_more_dense_66
+  - first:
+      213: 5387145611157528604
+    second: liq_ins_more_dense_67
+  - first:
+      213: -7411936700211679654
+    second: liq_ins_more_dense_68
+  - first:
+      213: -2866142777794049222
+    second: liq_ins_more_dense_69
+  - first:
+      213: -5728265972043688313
+    second: liq_ins_more_dense_70
+  - first:
+      213: -1870157322704975450
+    second: liq_ins_more_dense_71
+  - first:
+      213: 4722685400557664654
+    second: liq_ins_more_dense_72
+  - first:
+      213: -5591624789760443894
+    second: liq_ins_more_dense_73
+  - first:
+      213: -699972482598591337
+    second: liq_ins_more_dense_74
+  - first:
+      213: -8175538160619481964
+    second: liq_ins_more_dense_75
+  - first:
+      213: -695022648260425678
+    second: liq_ins_more_dense_76
+  - first:
+      213: -34079249624797862
+    second: liq_ins_more_dense_77
+  - first:
+      213: -6813756889540348667
+    second: liq_ins_more_dense_78
+  - first:
+      213: 1285433629135944303
+    second: liq_ins_more_dense_79
+  - first:
+      213: 994972832485838567
+    second: liq_ins_more_dense_80
+  - first:
+      213: 729232132250955914
+    second: liq_ins_more_dense_81
+  - first:
+      213: -879963193514671509
+    second: liq_ins_more_dense_82
+  - first:
+      213: -8558476655015499868
+    second: liq_ins_more_dense_83
+  - first:
+      213: 7834419455460135985
+    second: liq_ins_more_dense_84
+  - first:
+      213: 1640954956566828191
+    second: liq_ins_more_dense_85
+  - first:
+      213: 5342692886694711590
+    second: liq_ins_more_dense_86
+  - first:
+      213: 3214061023718994417
+    second: liq_ins_more_dense_87
+  - first:
+      213: -6648716398686427191
+    second: liq_ins_more_dense_88
+  - first:
+      213: -7863470233282716236
+    second: liq_ins_more_dense_89
+  - first:
+      213: 3979427886594299105
+    second: liq_ins_more_dense_90
+  - first:
+      213: -7551299412390859980
+    second: liq_ins_more_dense_91
+  - first:
+      213: 2656224779011175081
+    second: liq_ins_more_dense_92
+  - first:
+      213: -7235701375106773165
+    second: liq_ins_more_dense_93
+  - first:
+      213: 5124980076321209623
+    second: liq_ins_more_dense_94
+  - first:
+      213: -3969377150063793366
+    second: liq_ins_more_dense_95
+  - first:
+      213: -156614956052122643
+    second: liq_ins_more_dense_96
+  - first:
+      213: -7481276054566179291
+    second: liq_ins_more_dense_97
+  - first:
+      213: 1871281102091966932
+    second: liq_ins_more_dense_98
+  - first:
+      213: 1011546967297375947
+    second: liq_ins_more_dense_99
+  - first:
+      213: -7328967141730183809
+    second: liq_ins_more_dense_100
+  - first:
+      213: 11439864837591050
+    second: liq_ins_more_dense_101
+  - first:
+      213: 6858016385898467229
+    second: liq_ins_more_dense_102
+  - first:
+      213: 2068917812377126161
+    second: liq_ins_more_dense_103
+  - first:
+      213: -8939615703665016359
+    second: liq_ins_more_dense_104
+  - first:
+      213: 1756459526117390837
+    second: liq_ins_more_dense_105
+  - first:
+      213: -8540758870151759366
+    second: liq_ins_more_dense_106
+  - first:
+      213: 1794586028913901653
+    second: liq_ins_more_dense_107
+  - first:
+      213: -1964147907158752252
+    second: liq_ins_more_dense_108
+  - first:
+      213: 8523901512245101580
+    second: liq_ins_more_dense_109
+  - first:
+      213: -2909523392602864260
+    second: liq_ins_more_dense_110
+  - first:
+      213: 5505496569473588011
+    second: liq_ins_more_dense_111
+  - first:
+      213: -6073725913149899429
+    second: liq_ins_more_dense_112
+  - first:
+      213: -2244347166478124450
+    second: liq_ins_more_dense_113
+  - first:
+      213: 4474308152300543986
+    second: liq_ins_more_dense_114
+  - first:
+      213: -4284493239642688834
+    second: liq_ins_more_dense_115
+  - first:
+      213: -5581190820944164361
+    second: liq_ins_more_dense_116
+  - first:
+      213: -4634441993230329095
+    second: liq_ins_more_dense_117
+  - first:
+      213: -8116433746783371203
+    second: liq_ins_more_dense_118
+  - first:
+      213: -578799815218397707
+    second: liq_ins_more_dense_119
+  - first:
+      213: -7849352463014630646
+    second: liq_ins_more_dense_120
+  - first:
+      213: -3700669249660250954
+    second: liq_ins_more_dense_121
+  - first:
+      213: -4851176492795879454
+    second: liq_ins_more_dense_122
+  - first:
+      213: -3191124839464176648
+    second: liq_ins_more_dense_123
+  - first:
+      213: -6326604276320954505
+    second: liq_ins_more_dense_124
+  - first:
+      213: -5135684539035479610
+    second: liq_ins_more_dense_125
+  - first:
+      213: 3108388083148979582
+    second: liq_ins_more_dense_126
+  - first:
+      213: 6676085333678988232
+    second: liq_ins_more_dense_127
+  - first:
+      213: -6786013469799658515
+    second: liq_ins_more_dense_128
+  - first:
+      213: 7767952815554899567
+    second: liq_ins_more_dense_129
+  - first:
+      213: 5363315072819245865
+    second: liq_ins_more_dense_130
+  - first:
+      213: 971942692060751001
+    second: liq_ins_more_dense_131
+  - first:
+      213: 4256914341904688680
+    second: liq_ins_more_dense_132
+  - first:
+      213: -312166073910845961
+    second: liq_ins_more_dense_133
+  - first:
+      213: 3542046936932198675
+    second: liq_ins_more_dense_134
+  - first:
+      213: -6298116329219107065
+    second: liq_ins_more_dense_135
+  - first:
+      213: -903973425768148675
+    second: liq_ins_more_dense_136
+  - first:
+      213: 4729156871291901650
+    second: liq_ins_more_dense_137
+  - first:
+      213: -5738160028806930520
+    second: liq_ins_more_dense_138
+  - first:
+      213: 8184806830250717525
+    second: liq_ins_more_dense_139
+  - first:
+      213: -1616857024575629863
+    second: liq_ins_more_dense_140
+  - first:
+      213: 6820782423935514706
+    second: liq_ins_more_dense_141
+  - first:
+      213: -3575444458136549467
+    second: liq_ins_more_dense_142
+  - first:
+      213: -4866660603905674266
+    second: liq_ins_more_dense_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: liq_ins_more_dense_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d995d68406d441d10800000000000000
+      internalID: 2095384802561448349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b59d603508984cb0800000000000000
+      internalID: -4879483048201185870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73580999d38887580800000000000000
+      internalID: -8829157271309089481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_3
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69f45bd0e5208e0800000000000000
+      internalID: -1728715893987371282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_4
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba068bbedef8b0f30800000000000000
+      internalID: 4542882901158027435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_5
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9959110b0c1831a0800000000000000
+      internalID: -6829678001318700643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_6
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f480d5a9b3a2a090800000000000000
+      internalID: -8024671568274619152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_7
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91407af04b1e33b0800000000000000
+      internalID: -5530953326470872674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_8
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936623191450b6340800000000000000
+      internalID: 4857982402216224313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_9
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677736e0347758220800000000000000
+      internalID: 2487525499079980918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_10
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b3c29221ba891c0800000000000000
+      internalID: -4496656133440914622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_11
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34818715c09402970800000000000000
+      internalID: 8728056395099281475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523ea3da42f56ed80800000000000000
+      internalID: -8221779458588482779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6125ecb44e3f200800000000000000
+      internalID: 212764621651711722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec42523d54e001c0800000000000000
+      internalID: -4539377335462114076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_15
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f456c5ffecf1560800000000000000
+      internalID: 7286770318270877553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_16
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f515ba344f3d6f0800000000000000
+      internalID: -660916148819107995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_17
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0589d5be0a51a270800000000000000
+      internalID: 8259982210801173770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_18
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595a693ebc3411df0800000000000000
+      internalID: -211313164533979755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_19
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389075cdf1a316d0800000000000000
+      internalID: -3020892813724182468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_20
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4f1a2c90360f090800000000000000
+      internalID: -8002787644266122049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_21
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aeeec3d5f8dc020800000000000000
+      internalID: 2363703010056399483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_22
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9937113ae0f4f9b50800000000000000
+      internalID: 6602082503032402841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_23
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ddd80c84ec34d00800000000000000
+      internalID: 955834357796167052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4326563d661a560800000000000000
+      internalID: 7323247527206204594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c212c2d75c1e59390800000000000000
+      internalID: -7812089740279406292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_26
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5818cd6e0afb2ed0800000000000000
+      internalID: -2437579833412675491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_27
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faa61038b077c8a0800000000000000
+      internalID: -6284930818589152526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_28
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c177f51b74e874ec0800000000000000
+      internalID: -3582738539980294372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_29
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a692e15422ec160e0800000000000000
+      internalID: -2278313289888945814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_30
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d323be50571163c60800000000000000
+      internalID: 7797438999146738237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_31
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fce255062e5b6e50800000000000000
+      internalID: 6803635179464355063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_32
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96943c7666bac5410800000000000000
+      internalID: 1467236034931804521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_33
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdb7e3ed0183e980800000000000000
+      internalID: -8510816974141932035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_34
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af763bb6a3443cd00800000000000000
+      internalID: 991711360657352698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_35
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe64a50351dadb360800000000000000
+      internalID: 7187090886870320879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de83521e3b1178a80800000000000000
+      internalID: -8464777510345426707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_37
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c59635cbe45c930800000000000000
+      internalID: 4162820001334123669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_38
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d1d6016e249ef90800000000000000
+      internalID: -6923929396219929315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_39
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751da6aff80361df0800000000000000
+      internalID: -209926937686388393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_40
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40515a205405ac6d0800000000000000
+      internalID: -2969472746970082044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_41
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f867bf12751f14ba0800000000000000
+      internalID: -6106334263203105137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_42
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b544e8a239fde20800000000000000
+      internalID: 3377580056535915393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_43
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d56c8982e973dd10800000000000000
+      internalID: 2149195461063108049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_44
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd51be23a7542ba20800000000000000
+      internalID: 3076597886590064093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_45
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4663c18a05cdf85d0800000000000000
+      internalID: -3057983382985361820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_46
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c4d3e775e8efd80800000000000000
+      internalID: -8214972163845960676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_47
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6acdad4805088a0800000000000000
+      internalID: -6304950946780895519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19f8f0e3ac5bb390800000000000000
+      internalID: -7801540070565414628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e487c76cd635bc90800000000000000
+      internalID: -7154752112746330904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_50
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4771a13b889168a10800000000000000
+      internalID: 1911243166776432500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_51
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8cdddfef21d4cd0800000000000000
+      internalID: -2572378925768521534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_52
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897a8c646e54f91e0800000000000000
+      internalID: -2188954038546421864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_53
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9e05285a595a670800000000000000
+      internalID: 8549404005721237988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_54
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95eb637fddc1ac80800000000000000
+      internalID: -8313137077551372897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_55
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cced25bd65de990800000000000000
+      internalID: -7355127116437992299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_56
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ad34fcfc47d7110800000000000000
+      internalID: 1260291906617989779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_57
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3fe6b2b41619460800000000000000
+      internalID: 7246680250894971871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_58
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cf5bfe703ce6ce0800000000000000
+      internalID: -1409975194466517937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_59
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5888607acd8665340800000000000000
+      internalID: 4852180945442605189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a24835563718950800000000000000
+      internalID: 6449563020401322613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_61
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5258743c6cfb604d0800000000000000
+      internalID: -3168634427407891163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_62
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f992a9d380fce50800000000000000
+      internalID: 6831688220416777993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_63
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646611659935b3ec0800000000000000
+      internalID: -3586180760231385530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_64
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e6905731653b8b0800000000000000
+      internalID: -5137668108331684343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_65
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e22149c467f0d500800000000000000
+      internalID: 419106777590735587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_66
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cef5b0bc6edd6a0800000000000000
+      internalID: -6422723733816873980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_67
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10695a146cf2ca40800000000000000
+      internalID: 5387145611157528604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_68
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ea33e57d2832990800000000000000
+      internalID: -7411936700211679654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_69
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bc80e345a6938d0800000000000000
+      internalID: -2866142777794049222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_70
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786d065b27c1180b0800000000000000
+      internalID: -5728265972043688313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_71
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a90312d2dddb06e0800000000000000
+      internalID: -1870157322704975450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89b92699595a8140800000000000000
+      internalID: 4722685400557664654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_73
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a7f0121ee8662b0800000000000000
+      internalID: -5591624789760443894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_74
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794a9265cb23946f0800000000000000
+      internalID: -699972482598591337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_75
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49410a8db57aa8e80800000000000000
+      internalID: -8175538160619481964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_76
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23806937598ca56f0800000000000000
+      internalID: -695022648260425678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_77
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5de6ef5a1de68ff0800000000000000
+      internalID: -34079249624797862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_78
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505b315b53ca071a0800000000000000
+      internalID: -6813756889540348667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_79
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a3dfe3317c6d110800000000000000
+      internalID: 1285433629135944303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_80
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee8b71058adecd00800000000000000
+      internalID: 994972832485838567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_81
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a807e99b2c0ce1a00800000000000000
+      internalID: 729232132250955914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_82
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c323432eb9c3f0800000000000000
+      internalID: -879963193514671509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_83
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7e357b3de2a3980800000000000000
+      internalID: -8558476655015499868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1345c187cf279bc60800000000000000
+      internalID: 7834419455460135985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_85
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94159eb6d7d5c610800000000000000
+      internalID: 1640954956566828191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_86
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621d177afde052a40800000000000000
+      internalID: 5342692886694711590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_87
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1f235e873aa9c20800000000000000
+      internalID: 3214061023718994417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_88
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c72bfb69a30bb3a0800000000000000
+      internalID: -6648716398686427191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_89
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd535b3c775fd290800000000000000
+      internalID: -7863470233282716236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_90
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e49cb53494c93730800000000000000
+      internalID: 3979427886594299105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_91
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba3d36135643790800000000000000
+      internalID: -7551299412390859980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_92
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a23d8cfc5eccd420800000000000000
+      internalID: 2656224779011175081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_93
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f84fb8fef959b90800000000000000
+      internalID: -7235701375106773165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_94
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d7412e9369f1740800000000000000
+      internalID: 5124980076321209623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_95
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b25ee3380f9e8c0800000000000000
+      internalID: -3969377150063793366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3fff9f68793ddf0800000000000000
+      internalID: -156614956052122643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_97
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e62fcd01b2d2890800000000000000
+      internalID: -7481276054566179291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_98
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9d7157f3028f910800000000000000
+      internalID: 1871281102091966932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_99
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce326b7b9cb90e00800000000000000
+      internalID: 1011546967297375947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_100
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7599a217374a4a90800000000000000
+      internalID: -7328967141730183809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_101
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a005ce71f74a82000800000000000000
+      internalID: 11439864837591050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_102
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f494151919c2f50800000000000000
+      internalID: 6858016385898467229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_103
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115873ce9c546bc10800000000000000
+      internalID: 2068917812377126161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_104
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d10b82b1ea10f380800000000000000
+      internalID: -8939615703665016359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_105
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f39402a2306810800000000000000
+      internalID: 1756459526117390837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_106
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af97658fe01297980800000000000000
+      internalID: -8540758870151759366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_107
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550ca443c76a7e810800000000000000
+      internalID: 1794586028913901653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404c97b82e1fdb4e0800000000000000
+      internalID: -1964147907158752252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_109
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04c8c9834bfa4670800000000000000
+      internalID: 8523901512245101580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_110
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c758736c3eb4f97d0800000000000000
+      internalID: -2909523392602864260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_111
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bda97e5f3776c40800000000000000
+      internalID: 5505496569473588011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_112
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d7d93467ac5bba0800000000000000
+      internalID: -6073725913149899429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_113
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aba65a42a7ad0e0800000000000000
+      internalID: -2244347166478124450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_114
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff12810f8fe71e30800000000000000
+      internalID: 4474308152300543986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_115
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f888491c6a84c0800000000000000
+      internalID: -4284493239642688834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_116
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9c3fdc480ab82b0800000000000000
+      internalID: -5581190820944164361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_117
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa5a5dbf872fafb0800000000000000
+      internalID: -4634441993230329095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_118
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d300cff8282ac5f80800000000000000
+      internalID: -8116433746783371203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_119
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd78d972a0b7f7f0800000000000000
+      internalID: -578799815218397707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bec25c58f711390800000000000000
+      internalID: -7849352463014630646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_121
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b41ac6ace494acc0800000000000000
+      internalID: -3700669249660250954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_122
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef1d24bea82dacb0800000000000000
+      internalID: -4851176492795879454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_123
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ffc5add8d6b3d0800000000000000
+      internalID: -3191124839464176648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_124
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7771c633ee26338a0800000000000000
+      internalID: -6326604276320954505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_125
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1135c2f126ab8b0800000000000000
+      internalID: -5135684539035479610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_126
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7df6202e76332b20800000000000000
+      internalID: 3108388083148979582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_127
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb91245d3836ac50800000000000000
+      internalID: 6676085333678988232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_128
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb439bf3bc33d1a0800000000000000
+      internalID: -6786013469799658515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_129
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e252bedef4dcb60800000000000000
+      internalID: 7767952815554899567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_130
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923b3e584a25e6a40800000000000000
+      internalID: 5363315072819245865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_131
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99461569ab80d7d00800000000000000
+      internalID: 971942692060751001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ae743a09931b30800000000000000
+      internalID: 4256914341904688680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_133
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd9d951c96faabf0800000000000000
+      internalID: -312166073910845961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_134
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319aa9d2ce0e72130800000000000000
+      internalID: 3542046936932198675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_135
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707dec241989898a0800000000000000
+      internalID: -6298116329219107065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_136
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3152be65f07473f0800000000000000
+      internalID: -903973425768148675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_137
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d693784e1751a140800000000000000
+      internalID: 4729156871291901650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_138
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af1e9a1bd5fd50b0800000000000000
+      internalID: -5738160028806930520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_139
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551f8487276469170800000000000000
+      internalID: 8184806830250717525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_140
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d513954a15cf89e0800000000000000
+      internalID: -1616857024575629863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_141
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25877ecf97948ae50800000000000000
+      internalID: 6820782423935514706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_142
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7c1a67538716ec0800000000000000
+      internalID: -3575444458136549467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_ins_more_dense_143
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e370d527f5267cb0800000000000000
+      internalID: -4866660603905674266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      liq_ins_more_dense_0: 2095384802561448349
+      liq_ins_more_dense_1: -4879483048201185870
+      liq_ins_more_dense_10: -4496656133440914622
+      liq_ins_more_dense_100: -7328967141730183809
+      liq_ins_more_dense_101: 11439864837591050
+      liq_ins_more_dense_102: 6858016385898467229
+      liq_ins_more_dense_103: 2068917812377126161
+      liq_ins_more_dense_104: -8939615703665016359
+      liq_ins_more_dense_105: 1756459526117390837
+      liq_ins_more_dense_106: -8540758870151759366
+      liq_ins_more_dense_107: 1794586028913901653
+      liq_ins_more_dense_108: -1964147907158752252
+      liq_ins_more_dense_109: 8523901512245101580
+      liq_ins_more_dense_11: 8728056395099281475
+      liq_ins_more_dense_110: -2909523392602864260
+      liq_ins_more_dense_111: 5505496569473588011
+      liq_ins_more_dense_112: -6073725913149899429
+      liq_ins_more_dense_113: -2244347166478124450
+      liq_ins_more_dense_114: 4474308152300543986
+      liq_ins_more_dense_115: -4284493239642688834
+      liq_ins_more_dense_116: -5581190820944164361
+      liq_ins_more_dense_117: -4634441993230329095
+      liq_ins_more_dense_118: -8116433746783371203
+      liq_ins_more_dense_119: -578799815218397707
+      liq_ins_more_dense_12: -8221779458588482779
+      liq_ins_more_dense_120: -7849352463014630646
+      liq_ins_more_dense_121: -3700669249660250954
+      liq_ins_more_dense_122: -4851176492795879454
+      liq_ins_more_dense_123: -3191124839464176648
+      liq_ins_more_dense_124: -6326604276320954505
+      liq_ins_more_dense_125: -5135684539035479610
+      liq_ins_more_dense_126: 3108388083148979582
+      liq_ins_more_dense_127: 6676085333678988232
+      liq_ins_more_dense_128: -6786013469799658515
+      liq_ins_more_dense_129: 7767952815554899567
+      liq_ins_more_dense_13: 212764621651711722
+      liq_ins_more_dense_130: 5363315072819245865
+      liq_ins_more_dense_131: 971942692060751001
+      liq_ins_more_dense_132: 4256914341904688680
+      liq_ins_more_dense_133: -312166073910845961
+      liq_ins_more_dense_134: 3542046936932198675
+      liq_ins_more_dense_135: -6298116329219107065
+      liq_ins_more_dense_136: -903973425768148675
+      liq_ins_more_dense_137: 4729156871291901650
+      liq_ins_more_dense_138: -5738160028806930520
+      liq_ins_more_dense_139: 8184806830250717525
+      liq_ins_more_dense_14: -4539377335462114076
+      liq_ins_more_dense_140: -1616857024575629863
+      liq_ins_more_dense_141: 6820782423935514706
+      liq_ins_more_dense_142: -3575444458136549467
+      liq_ins_more_dense_143: -4866660603905674266
+      liq_ins_more_dense_15: 7286770318270877553
+      liq_ins_more_dense_16: -660916148819107995
+      liq_ins_more_dense_17: 8259982210801173770
+      liq_ins_more_dense_18: -211313164533979755
+      liq_ins_more_dense_19: -3020892813724182468
+      liq_ins_more_dense_2: -8829157271309089481
+      liq_ins_more_dense_20: -8002787644266122049
+      liq_ins_more_dense_21: 2363703010056399483
+      liq_ins_more_dense_22: 6602082503032402841
+      liq_ins_more_dense_23: 955834357796167052
+      liq_ins_more_dense_24: 7323247527206204594
+      liq_ins_more_dense_25: -7812089740279406292
+      liq_ins_more_dense_26: -2437579833412675491
+      liq_ins_more_dense_27: -6284930818589152526
+      liq_ins_more_dense_28: -3582738539980294372
+      liq_ins_more_dense_29: -2278313289888945814
+      liq_ins_more_dense_3: -1728715893987371282
+      liq_ins_more_dense_30: 7797438999146738237
+      liq_ins_more_dense_31: 6803635179464355063
+      liq_ins_more_dense_32: 1467236034931804521
+      liq_ins_more_dense_33: -8510816974141932035
+      liq_ins_more_dense_34: 991711360657352698
+      liq_ins_more_dense_35: 7187090886870320879
+      liq_ins_more_dense_36: -8464777510345426707
+      liq_ins_more_dense_37: 4162820001334123669
+      liq_ins_more_dense_38: -6923929396219929315
+      liq_ins_more_dense_39: -209926937686388393
+      liq_ins_more_dense_4: 4542882901158027435
+      liq_ins_more_dense_40: -2969472746970082044
+      liq_ins_more_dense_41: -6106334263203105137
+      liq_ins_more_dense_42: 3377580056535915393
+      liq_ins_more_dense_43: 2149195461063108049
+      liq_ins_more_dense_44: 3076597886590064093
+      liq_ins_more_dense_45: -3057983382985361820
+      liq_ins_more_dense_46: -8214972163845960676
+      liq_ins_more_dense_47: -6304950946780895519
+      liq_ins_more_dense_48: -7801540070565414628
+      liq_ins_more_dense_49: -7154752112746330904
+      liq_ins_more_dense_5: -6829678001318700643
+      liq_ins_more_dense_50: 1911243166776432500
+      liq_ins_more_dense_51: -2572378925768521534
+      liq_ins_more_dense_52: -2188954038546421864
+      liq_ins_more_dense_53: 8549404005721237988
+      liq_ins_more_dense_54: -8313137077551372897
+      liq_ins_more_dense_55: -7355127116437992299
+      liq_ins_more_dense_56: 1260291906617989779
+      liq_ins_more_dense_57: 7246680250894971871
+      liq_ins_more_dense_58: -1409975194466517937
+      liq_ins_more_dense_59: 4852180945442605189
+      liq_ins_more_dense_6: -8024671568274619152
+      liq_ins_more_dense_60: 6449563020401322613
+      liq_ins_more_dense_61: -3168634427407891163
+      liq_ins_more_dense_62: 6831688220416777993
+      liq_ins_more_dense_63: -3586180760231385530
+      liq_ins_more_dense_64: -5137668108331684343
+      liq_ins_more_dense_65: 419106777590735587
+      liq_ins_more_dense_66: -6422723733816873980
+      liq_ins_more_dense_67: 5387145611157528604
+      liq_ins_more_dense_68: -7411936700211679654
+      liq_ins_more_dense_69: -2866142777794049222
+      liq_ins_more_dense_7: -5530953326470872674
+      liq_ins_more_dense_70: -5728265972043688313
+      liq_ins_more_dense_71: -1870157322704975450
+      liq_ins_more_dense_72: 4722685400557664654
+      liq_ins_more_dense_73: -5591624789760443894
+      liq_ins_more_dense_74: -699972482598591337
+      liq_ins_more_dense_75: -8175538160619481964
+      liq_ins_more_dense_76: -695022648260425678
+      liq_ins_more_dense_77: -34079249624797862
+      liq_ins_more_dense_78: -6813756889540348667
+      liq_ins_more_dense_79: 1285433629135944303
+      liq_ins_more_dense_8: 4857982402216224313
+      liq_ins_more_dense_80: 994972832485838567
+      liq_ins_more_dense_81: 729232132250955914
+      liq_ins_more_dense_82: -879963193514671509
+      liq_ins_more_dense_83: -8558476655015499868
+      liq_ins_more_dense_84: 7834419455460135985
+      liq_ins_more_dense_85: 1640954956566828191
+      liq_ins_more_dense_86: 5342692886694711590
+      liq_ins_more_dense_87: 3214061023718994417
+      liq_ins_more_dense_88: -6648716398686427191
+      liq_ins_more_dense_89: -7863470233282716236
+      liq_ins_more_dense_9: 2487525499079980918
+      liq_ins_more_dense_90: 3979427886594299105
+      liq_ins_more_dense_91: -7551299412390859980
+      liq_ins_more_dense_92: 2656224779011175081
+      liq_ins_more_dense_93: -7235701375106773165
+      liq_ins_more_dense_94: 5124980076321209623
+      liq_ins_more_dense_95: -3969377150063793366
+      liq_ins_more_dense_96: -156614956052122643
+      liq_ins_more_dense_97: -7481276054566179291
+      liq_ins_more_dense_98: 1871281102091966932
+      liq_ins_more_dense_99: 1011546967297375947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

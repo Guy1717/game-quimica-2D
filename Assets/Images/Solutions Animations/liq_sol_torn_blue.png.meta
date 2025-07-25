@@ -1,0 +1,7618 @@
+fileFormatVersion: 2
+guid: 14fc901733affa442b0e7981db933a69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6820210663248159956
+    second: liq_sol_torr_blue_0
+  - first:
+      213: 3290495059623652761
+    second: liq_sol_torr_blue_1
+  - first:
+      213: 6145144814269440691
+    second: liq_sol_torr_blue_2
+  - first:
+      213: 7324814327414153007
+    second: liq_sol_torr_blue_3
+  - first:
+      213: -6092170254031673193
+    second: liq_sol_torr_blue_4
+  - first:
+      213: 4147455860206226937
+    second: liq_sol_torr_blue_5
+  - first:
+      213: 601911431841009943
+    second: liq_sol_torr_blue_6
+  - first:
+      213: 2664245027205860790
+    second: liq_sol_torr_blue_7
+  - first:
+      213: -5653921223250389011
+    second: liq_sol_torr_blue_8
+  - first:
+      213: 8482343931938357044
+    second: liq_sol_torr_blue_9
+  - first:
+      213: -5778669983480826436
+    second: liq_sol_torr_blue_10
+  - first:
+      213: -899560602338060697
+    second: liq_sol_torr_blue_11
+  - first:
+      213: -9181755518234455145
+    second: liq_sol_torr_blue_12
+  - first:
+      213: 3900341178793306040
+    second: liq_sol_torr_blue_13
+  - first:
+      213: 233388071996008164
+    second: liq_sol_torr_blue_14
+  - first:
+      213: 1465601301598675556
+    second: liq_sol_torr_blue_15
+  - first:
+      213: -8335057341021463444
+    second: liq_sol_torr_blue_16
+  - first:
+      213: -8436818500700325528
+    second: liq_sol_torr_blue_17
+  - first:
+      213: -597301882432117046
+    second: liq_sol_torr_blue_18
+  - first:
+      213: -2750660483129045242
+    second: liq_sol_torr_blue_19
+  - first:
+      213: 3409181283114194587
+    second: liq_sol_torr_blue_20
+  - first:
+      213: 1738236521205168495
+    second: liq_sol_torr_blue_21
+  - first:
+      213: 2043312792965502122
+    second: liq_sol_torr_blue_22
+  - first:
+      213: 8359499280153165494
+    second: liq_sol_torr_blue_23
+  - first:
+      213: 5075246695887417537
+    second: liq_sol_torr_blue_24
+  - first:
+      213: -2746918757099650242
+    second: liq_sol_torr_blue_25
+  - first:
+      213: -4937618596658783721
+    second: liq_sol_torr_blue_26
+  - first:
+      213: -8387210221073752619
+    second: liq_sol_torr_blue_27
+  - first:
+      213: 5952278098513459388
+    second: liq_sol_torr_blue_28
+  - first:
+      213: -1025770760258577743
+    second: liq_sol_torr_blue_29
+  - first:
+      213: 6496323388693544863
+    second: liq_sol_torr_blue_30
+  - first:
+      213: -7175481777170534689
+    second: liq_sol_torr_blue_31
+  - first:
+      213: 5075929770484653818
+    second: liq_sol_torr_blue_32
+  - first:
+      213: -4076239785599534543
+    second: liq_sol_torr_blue_33
+  - first:
+      213: 1526462037710564553
+    second: liq_sol_torr_blue_34
+  - first:
+      213: 4192056349096879393
+    second: liq_sol_torr_blue_35
+  - first:
+      213: -4344765075847582133
+    second: liq_sol_torr_blue_36
+  - first:
+      213: -8474519395724502791
+    second: liq_sol_torr_blue_37
+  - first:
+      213: -4688490411802130147
+    second: liq_sol_torr_blue_38
+  - first:
+      213: -3541137642700381765
+    second: liq_sol_torr_blue_39
+  - first:
+      213: 9071276055005346585
+    second: liq_sol_torr_blue_40
+  - first:
+      213: -2821737873442946260
+    second: liq_sol_torr_blue_41
+  - first:
+      213: 6920848187720310835
+    second: liq_sol_torr_blue_42
+  - first:
+      213: -7722904239610817989
+    second: liq_sol_torr_blue_43
+  - first:
+      213: 5343470590629449241
+    second: liq_sol_torr_blue_44
+  - first:
+      213: 2206724082572640746
+    second: liq_sol_torr_blue_45
+  - first:
+      213: -7164536884518435515
+    second: liq_sol_torr_blue_46
+  - first:
+      213: -6844923481744098921
+    second: liq_sol_torr_blue_47
+  - first:
+      213: 6443774511340515494
+    second: liq_sol_torr_blue_48
+  - first:
+      213: 2517938819273470800
+    second: liq_sol_torr_blue_49
+  - first:
+      213: -6913238748496793939
+    second: liq_sol_torr_blue_50
+  - first:
+      213: 7663232161481412897
+    second: liq_sol_torr_blue_51
+  - first:
+      213: -7244167603710244345
+    second: liq_sol_torr_blue_52
+  - first:
+      213: -8340683557072462654
+    second: liq_sol_torr_blue_53
+  - first:
+      213: 5333692200266325107
+    second: liq_sol_torr_blue_54
+  - first:
+      213: 4394699955193253501
+    second: liq_sol_torr_blue_55
+  - first:
+      213: -9084215344281884045
+    second: liq_sol_torr_blue_56
+  - first:
+      213: -5560190711279380945
+    second: liq_sol_torr_blue_57
+  - first:
+      213: -2137420531664852490
+    second: liq_sol_torr_blue_58
+  - first:
+      213: 4363301109905286131
+    second: liq_sol_torr_blue_59
+  - first:
+      213: 7769670493952289668
+    second: liq_sol_torr_blue_60
+  - first:
+      213: -4262406399219171005
+    second: liq_sol_torr_blue_61
+  - first:
+      213: 6718364739135691280
+    second: liq_sol_torr_blue_62
+  - first:
+      213: -5499490910025655837
+    second: liq_sol_torr_blue_63
+  - first:
+      213: -1701659072211329439
+    second: liq_sol_torr_blue_64
+  - first:
+      213: 7201147470823165397
+    second: liq_sol_torr_blue_65
+  - first:
+      213: 2837835995965873914
+    second: liq_sol_torr_blue_66
+  - first:
+      213: 4884919474854822787
+    second: liq_sol_torr_blue_67
+  - first:
+      213: -4735317471520165091
+    second: liq_sol_torr_blue_68
+  - first:
+      213: -5576935731202377026
+    second: liq_sol_torr_blue_69
+  - first:
+      213: 4689311596709683267
+    second: liq_sol_torr_blue_70
+  - first:
+      213: -8938611089421665496
+    second: liq_sol_torr_blue_71
+  - first:
+      213: 6570157577968780778
+    second: liq_sol_torr_blue_72
+  - first:
+      213: 8300810756463384083
+    second: liq_sol_torr_blue_73
+  - first:
+      213: -6185945053490743762
+    second: liq_sol_torr_blue_74
+  - first:
+      213: 8576205662485690020
+    second: liq_sol_torr_blue_75
+  - first:
+      213: 7061334349281618957
+    second: liq_sol_torr_blue_76
+  - first:
+      213: -6494033676217508914
+    second: liq_sol_torr_blue_77
+  - first:
+      213: 1223449257327686915
+    second: liq_sol_torr_blue_78
+  - first:
+      213: -7462132435159258192
+    second: liq_sol_torr_blue_79
+  - first:
+      213: 5250716062160776803
+    second: liq_sol_torr_blue_80
+  - first:
+      213: -6243867541002908012
+    second: liq_sol_torr_blue_81
+  - first:
+      213: -7714700714916984731
+    second: liq_sol_torr_blue_82
+  - first:
+      213: -3186264351375750541
+    second: liq_sol_torr_blue_83
+  - first:
+      213: 8296675022619567087
+    second: liq_sol_torr_blue_84
+  - first:
+      213: 8776939857674323911
+    second: liq_sol_torr_blue_85
+  - first:
+      213: -8242483164551784649
+    second: liq_sol_torr_blue_86
+  - first:
+      213: -6963582203601490261
+    second: liq_sol_torr_blue_87
+  - first:
+      213: -491477529307240374
+    second: liq_sol_torr_blue_88
+  - first:
+      213: 5169608274310246610
+    second: liq_sol_torr_blue_89
+  - first:
+      213: -7280246010236511807
+    second: liq_sol_torr_blue_90
+  - first:
+      213: 8331668426982607507
+    second: liq_sol_torr_blue_91
+  - first:
+      213: 7152397546122987520
+    second: liq_sol_torr_blue_92
+  - first:
+      213: 478694397110248880
+    second: liq_sol_torr_blue_93
+  - first:
+      213: 3700719636823352635
+    second: liq_sol_torr_blue_94
+  - first:
+      213: 4420392323295056393
+    second: liq_sol_torr_blue_95
+  - first:
+      213: -6902691432421288505
+    second: liq_sol_torr_blue_96
+  - first:
+      213: 5087105578583592855
+    second: liq_sol_torr_blue_97
+  - first:
+      213: 8655812863595276671
+    second: liq_sol_torr_blue_98
+  - first:
+      213: -4659992823450649101
+    second: liq_sol_torr_blue_99
+  - first:
+      213: 1051594871273936579
+    second: liq_sol_torr_blue_100
+  - first:
+      213: 431272418793188662
+    second: liq_sol_torr_blue_101
+  - first:
+      213: 3781052022963369391
+    second: liq_sol_torr_blue_102
+  - first:
+      213: -1361745460304549812
+    second: liq_sol_torr_blue_103
+  - first:
+      213: 7599123770774476116
+    second: liq_sol_torr_blue_104
+  - first:
+      213: -2035599003419819216
+    second: liq_sol_torr_blue_105
+  - first:
+      213: -7632466259631603271
+    second: liq_sol_torr_blue_106
+  - first:
+      213: -4477753563499340213
+    second: liq_sol_torr_blue_107
+  - first:
+      213: -7911832897920763812
+    second: liq_sol_torr_blue_108
+  - first:
+      213: 2037639736637586482
+    second: liq_sol_torr_blue_109
+  - first:
+      213: -4090365987702785618
+    second: liq_sol_torr_blue_110
+  - first:
+      213: -8572369964095766500
+    second: liq_sol_torr_blue_111
+  - first:
+      213: -1097738811085343209
+    second: liq_sol_torr_blue_112
+  - first:
+      213: 2852314993135936454
+    second: liq_sol_torr_blue_113
+  - first:
+      213: 943356299917500946
+    second: liq_sol_torr_blue_114
+  - first:
+      213: 7963316555497900475
+    second: liq_sol_torr_blue_115
+  - first:
+      213: -9178444390966098688
+    second: liq_sol_torr_blue_116
+  - first:
+      213: 3341928916080182636
+    second: liq_sol_torr_blue_117
+  - first:
+      213: 1555605610779199495
+    second: liq_sol_torr_blue_118
+  - first:
+      213: 2059594088511332559
+    second: liq_sol_torr_blue_119
+  - first:
+      213: 3879822053399480059
+    second: liq_sol_torr_blue_120
+  - first:
+      213: 6949932423894411142
+    second: liq_sol_torr_blue_121
+  - first:
+      213: -7120431725336705179
+    second: liq_sol_torr_blue_122
+  - first:
+      213: -9187885221068661513
+    second: liq_sol_torr_blue_123
+  - first:
+      213: 1936176896675396495
+    second: liq_sol_torr_blue_124
+  - first:
+      213: 5588687841334526277
+    second: liq_sol_torr_blue_125
+  - first:
+      213: -9039727210466810915
+    second: liq_sol_torr_blue_126
+  - first:
+      213: 6894267711507340260
+    second: liq_sol_torr_blue_127
+  - first:
+      213: -7247419794602672558
+    second: liq_sol_torr_blue_128
+  - first:
+      213: 3127465996027997193
+    second: liq_sol_torr_blue_129
+  - first:
+      213: -1249232679765760965
+    second: liq_sol_torr_blue_130
+  - first:
+      213: 4552135063052896626
+    second: liq_sol_torr_blue_131
+  - first:
+      213: 7249783073182588854
+    second: liq_sol_torr_blue_132
+  - first:
+      213: 4170654766249716215
+    second: liq_sol_torr_blue_133
+  - first:
+      213: 3499869557113606330
+    second: liq_sol_torr_blue_134
+  - first:
+      213: 166074740114302009
+    second: liq_sol_torr_blue_135
+  - first:
+      213: -5724295128758877363
+    second: liq_sol_torr_blue_136
+  - first:
+      213: -6563815919373726066
+    second: liq_sol_torr_blue_137
+  - first:
+      213: -8606852804511058533
+    second: liq_sol_torr_blue_138
+  - first:
+      213: 8734351638695669022
+    second: liq_sol_torr_blue_139
+  - first:
+      213: 2340300556219123719
+    second: liq_sol_torr_blue_140
+  - first:
+      213: -6714471203881951036
+    second: liq_sol_torr_blue_141
+  - first:
+      213: -8027805808174511451
+    second: liq_sol_torr_blue_142
+  - first:
+      213: -529135437089221791
+    second: liq_sol_torr_blue_143
+  - first:
+      213: -4364115273104722138
+    second: liq_sol_torr_blue_144
+  - first:
+      213: -6675358514919710000
+    second: liq_sol_torr_blue_145
+  - first:
+      213: 6361305097783342105
+    second: liq_sol_torr_blue_146
+  - first:
+      213: -1426537719961644555
+    second: liq_sol_torr_blue_147
+  - first:
+      213: -1973085890011602280
+    second: liq_sol_torr_blue_148
+  - first:
+      213: -3065410349365280147
+    second: liq_sol_torr_blue_149
+  - first:
+      213: -5095700302487886570
+    second: liq_sol_torr_blue_150
+  - first:
+      213: 8170943124395051135
+    second: liq_sol_torr_blue_151
+  - first:
+      213: 588410548000696524
+    second: liq_sol_torr_blue_152
+  - first:
+      213: 749009285439990177
+    second: liq_sol_torr_blue_153
+  - first:
+      213: -1337144612382016501
+    second: liq_sol_torr_blue_154
+  - first:
+      213: -4544748172162341215
+    second: liq_sol_torr_blue_155
+  - first:
+      213: 2218315746476068559
+    second: liq_sol_torr_blue_156
+  - first:
+      213: -3497001479573568387
+    second: liq_sol_torr_blue_157
+  - first:
+      213: 8245472613455691674
+    second: liq_sol_torr_blue_158
+  - first:
+      213: -6975951212100489013
+    second: liq_sol_torr_blue_159
+  - first:
+      213: 8901675075528893903
+    second: liq_sol_torr_blue_160
+  - first:
+      213: -414669087211126082
+    second: liq_sol_torr_blue_161
+  - first:
+      213: -822899240722413328
+    second: liq_sol_torr_blue_162
+  - first:
+      213: -3342669796738171214
+    second: liq_sol_torr_blue_163
+  - first:
+      213: -8861294629223728974
+    second: liq_sol_torr_blue_164
+  - first:
+      213: 5076444633309993549
+    second: liq_sol_torr_blue_165
+  - first:
+      213: 7814218799019416262
+    second: liq_sol_torr_blue_166
+  - first:
+      213: 4190289373614645511
+    second: liq_sol_torr_blue_167
+  - first:
+      213: -6969437272724401176
+    second: liq_sol_torr_blue_168
+  - first:
+      213: 2977830055672193056
+    second: liq_sol_torr_blue_169
+  - first:
+      213: -6389561173868972341
+    second: liq_sol_torr_blue_170
+  - first:
+      213: -8805192560916114617
+    second: liq_sol_torr_blue_171
+  - first:
+      213: -227858988273392963
+    second: liq_sol_torr_blue_172
+  - first:
+      213: -1568430513253490351
+    second: liq_sol_torr_blue_173
+  - first:
+      213: 9053051562751264269
+    second: liq_sol_torr_blue_174
+  - first:
+      213: 2902145375735522265
+    second: liq_sol_torr_blue_175
+  - first:
+      213: -3014530829917931345
+    second: liq_sol_torr_blue_176
+  - first:
+      213: -4366365996243803609
+    second: liq_sol_torr_blue_177
+  - first:
+      213: 3842670014092850874
+    second: liq_sol_torr_blue_178
+  - first:
+      213: 3720701755879420988
+    second: liq_sol_torr_blue_179
+  - first:
+      213: -1928807692751658948
+    second: liq_sol_torr_blue_180
+  - first:
+      213: -800959583199905707
+    second: liq_sol_torr_blue_181
+  - first:
+      213: -6499040366746140982
+    second: liq_sol_torr_blue_182
+  - first:
+      213: -2369045766949015009
+    second: liq_sol_torr_blue_183
+  - first:
+      213: 221183015797807438
+    second: liq_sol_torr_blue_184
+  - first:
+      213: -698920211591289366
+    second: liq_sol_torr_blue_185
+  - first:
+      213: -1692072956227621436
+    second: liq_sol_torr_blue_186
+  - first:
+      213: 2343287632935638436
+    second: liq_sol_torr_blue_187
+  - first:
+      213: 60089417228901861
+    second: liq_sol_torr_blue_188
+  - first:
+      213: 3830749738646347006
+    second: liq_sol_torr_blue_189
+  - first:
+      213: -8562983574764160158
+    second: liq_sol_torr_blue_190
+  - first:
+      213: 6707265635165296317
+    second: liq_sol_torr_blue_191
+  - first:
+      213: -4051645821596924737
+    second: liq_sol_torr_blue_192
+  - first:
+      213: 2620108939836154250
+    second: liq_sol_torr_blue_193
+  - first:
+      213: -1306589539976731105
+    second: liq_sol_torr_blue_194
+  - first:
+      213: -4564560767983401403
+    second: liq_sol_torr_blue_195
+  - first:
+      213: 129051458642299936
+    second: liq_sol_torr_blue_196
+  - first:
+      213: -4844807260240002393
+    second: liq_sol_torr_blue_197
+  - first:
+      213: -201360181072768755
+    second: liq_sol_torr_blue_198
+  - first:
+      213: 786786397397637422
+    second: liq_sol_torr_blue_199
+  - first:
+      213: -5385709910892698481
+    second: liq_sol_torr_blue_200
+  - first:
+      213: 1478957515991904551
+    second: liq_sol_torr_blue_201
+  - first:
+      213: -3672596635043092758
+    second: liq_sol_torr_blue_202
+  - first:
+      213: -4606897083810593651
+    second: liq_sol_torr_blue_203
+  - first:
+      213: 5869364260387360750
+    second: liq_sol_torr_blue_204
+  - first:
+      213: 3105765220179157272
+    second: liq_sol_torr_blue_205
+  - first:
+      213: -4987479921639051754
+    second: liq_sol_torr_blue_206
+  - first:
+      213: -8894795887938450401
+    second: liq_sol_torr_blue_207
+  - first:
+      213: 1226976076973389431
+    second: liq_sol_torr_blue_208
+  - first:
+      213: -8556363886808244960
+    second: liq_sol_torr_blue_209
+  - first:
+      213: -921110404472760031
+    second: liq_sol_torr_blue_210
+  - first:
+      213: -361559008700738490
+    second: liq_sol_torr_blue_211
+  - first:
+      213: 5476379390930902446
+    second: liq_sol_torr_blue_212
+  - first:
+      213: 6753847122854688760
+    second: liq_sol_torr_blue_213
+  - first:
+      213: 5452994940616563928
+    second: liq_sol_torr_blue_214
+  - first:
+      213: 7804240110386924209
+    second: liq_sol_torr_blue_215
+  - first:
+      213: -2087414505210947631
+    second: liq_sol_torr_blue_216
+  - first:
+      213: 5337058964769278556
+    second: liq_sol_torr_blue_217
+  - first:
+      213: -8474421116737398488
+    second: liq_sol_torr_blue_218
+  - first:
+      213: -7156957441659449488
+    second: liq_sol_torr_blue_219
+  - first:
+      213: 6937601883219762684
+    second: liq_sol_torr_blue_220
+  - first:
+      213: 5912102520178957101
+    second: liq_sol_torr_blue_221
+  - first:
+      213: 5860739604304741735
+    second: liq_sol_torr_blue_222
+  - first:
+      213: 506973190137825115
+    second: liq_sol_torr_blue_223
+  - first:
+      213: -7440191906295518133
+    second: liq_sol_torr_blue_224
+  - first:
+      213: -5485039920951074028
+    second: liq_sol_torr_blue_225
+  - first:
+      213: 2120222948943761660
+    second: liq_sol_torr_blue_226
+  - first:
+      213: 622661388453309400
+    second: liq_sol_torr_blue_227
+  - first:
+      213: 624192454038850303
+    second: liq_sol_torr_blue_228
+  - first:
+      213: -303214642925132018
+    second: liq_sol_torr_blue_229
+  - first:
+      213: -7491674033051410004
+    second: liq_sol_torr_blue_230
+  - first:
+      213: -3929065116956439349
+    second: liq_sol_torr_blue_231
+  - first:
+      213: -7416074259948969203
+    second: liq_sol_torr_blue_232
+  - first:
+      213: 4233734239713581890
+    second: liq_sol_torr_blue_233
+  - first:
+      213: 6358158331247518928
+    second: liq_sol_torr_blue_234
+  - first:
+      213: -6652946797104680219
+    second: liq_sol_torr_blue_235
+  - first:
+      213: -2065433956825919574
+    second: liq_sol_torr_blue_236
+  - first:
+      213: -5192160960822247139
+    second: liq_sol_torr_blue_237
+  - first:
+      213: 1431313500293182219
+    second: liq_sol_torr_blue_238
+  - first:
+      213: 3735827379109873240
+    second: liq_sol_torr_blue_239
+  - first:
+      213: -3408271158310998344
+    second: liq_sol_torr_blue_240
+  - first:
+      213: 5059046062288851605
+    second: liq_sol_torr_blue_241
+  - first:
+      213: 4718120212609537556
+    second: liq_sol_torr_blue_242
+  - first:
+      213: -8052172956860543376
+    second: liq_sol_torr_blue_243
+  - first:
+      213: -8189648402334140948
+    second: liq_sol_torr_blue_244
+  - first:
+      213: 6558896754184402662
+    second: liq_sol_torr_blue_245
+  - first:
+      213: 5839579114387278342
+    second: liq_sol_torr_blue_246
+  - first:
+      213: 372831366784494203
+    second: liq_sol_torr_blue_247
+  - first:
+      213: -5560317250017543135
+    second: liq_sol_torr_blue_248
+  - first:
+      213: -8564995197770342116
+    second: liq_sol_torr_blue_249
+  - first:
+      213: -990448164296289656
+    second: liq_sol_torr_blue_250
+  - first:
+      213: -4504004770011243151
+    second: liq_sol_torr_blue_251
+  - first:
+      213: -5223920719593234285
+    second: liq_sol_torr_blue_252
+  - first:
+      213: 8926613346505519540
+    second: liq_sol_torr_blue_253
+  - first:
+      213: -558666494342022842
+    second: liq_sol_torr_blue_254
+  - first:
+      213: -5973058575572822403
+    second: liq_sol_torr_blue_255
+  - first:
+      213: -2350206331217560262
+    second: liq_sol_torr_blue_256
+  - first:
+      213: 8778596281978987003
+    second: liq_sol_torr_blue_257
+  - first:
+      213: 5120570150952365080
+    second: liq_sol_torr_blue_258
+  - first:
+      213: -4388226915941181720
+    second: liq_sol_torr_blue_259
+  - first:
+      213: 5719046453694153160
+    second: liq_sol_torr_blue_260
+  - first:
+      213: 4939337143662214561
+    second: liq_sol_torr_blue_261
+  - first:
+      213: 1344065305827789173
+    second: liq_sol_torr_blue_262
+  - first:
+      213: -3444446628521299178
+    second: liq_sol_torr_blue_263
+  - first:
+      213: -5514138237514737207
+    second: liq_sol_torr_blue_264
+  - first:
+      213: -1754312808475685210
+    second: liq_sol_torr_blue_265
+  - first:
+      213: 3737036286508251622
+    second: liq_sol_torr_blue_266
+  - first:
+      213: 8441537521809797971
+    second: liq_sol_torr_blue_267
+  - first:
+      213: -2247443431349930555
+    second: liq_sol_torr_blue_268
+  - first:
+      213: -7725439806323307854
+    second: liq_sol_torr_blue_269
+  - first:
+      213: 8798440912598995595
+    second: liq_sol_torr_blue_270
+  - first:
+      213: 265690081630186373
+    second: liq_sol_torr_blue_271
+  - first:
+      213: 3110428591266139151
+    second: liq_sol_torr_blue_272
+  - first:
+      213: 6594254402170369471
+    second: liq_sol_torr_blue_273
+  - first:
+      213: -4220541489292128879
+    second: liq_sol_torr_blue_274
+  - first:
+      213: -4550966525078912508
+    second: liq_sol_torr_blue_275
+  - first:
+      213: 3184577878498573635
+    second: liq_sol_torr_blue_276
+  - first:
+      213: 4018301302748162271
+    second: liq_sol_torr_blue_277
+  - first:
+      213: 6988395962271414453
+    second: liq_sol_torr_blue_278
+  - first:
+      213: -330487741459236837
+    second: liq_sol_torr_blue_279
+  - first:
+      213: 4443824131888173135
+    second: liq_sol_torr_blue_280
+  - first:
+      213: 4853943137241230101
+    second: liq_sol_torr_blue_281
+  - first:
+      213: 8558124971021947196
+    second: liq_sol_torr_blue_282
+  - first:
+      213: 6228697996849766323
+    second: liq_sol_torr_blue_283
+  - first:
+      213: 4213246606469290357
+    second: liq_sol_torr_blue_284
+  - first:
+      213: 7522897418709591383
+    second: liq_sol_torr_blue_285
+  - first:
+      213: -2771462451498844411
+    second: liq_sol_torr_blue_286
+  - first:
+      213: 7697625862105958460
+    second: liq_sol_torr_blue_287
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b13cb698eb951a0800000000000000
+      internalID: -6820210663248159956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dab0ca2df2aad20800000000000000
+      internalID: 3290495059623652761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b22dd376a0f74550800000000000000
+      internalID: 6145144814269440691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_3
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f563f72d7f6a560800000000000000
+      internalID: 7324814327414153007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_4
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798ad318e63447ba0800000000000000
+      internalID: -6092170254031673193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_5
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd44357129be8930800000000000000
+      internalID: 4147455860206226937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_6
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7115129124b6a5800800000000000000
+      internalID: 601911431841009943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_7
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdc4398cbc49f420800000000000000
+      internalID: 2664245027205860790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_8
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de75e1c6a9c3981b0800000000000000
+      internalID: -5653921223250389011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_9
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f30ed5dd657b570800000000000000
+      internalID: 8482343931938357044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_10
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5b968444a0ecfa0800000000000000
+      internalID: -5778669983480826436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_11
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 13806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76614b3f56e1483f0800000000000000
+      internalID: -899560602338060697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7931721d00ad39080800000000000000
+      internalID: -9181755518234455145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7adc023abc02630800000000000000
+      internalID: 3900341178793306040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6a22607392d3300800000000000000
+      internalID: 233388071996008164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_15
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462a3246e9cd65410800000000000000
+      internalID: 1465601301598675556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_16
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c57e5628de35c80800000000000000
+      internalID: -8335057341021463444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_17
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869305716466aea80800000000000000
+      internalID: -8436818500700325528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_18
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac626f14a15f5b7f0800000000000000
+      internalID: -597301882432117046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_19
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f836d3dd0b3d9d0800000000000000
+      internalID: -2750660483129045242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_20
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b969eea7058df4f20800000000000000
+      internalID: 3409181283114194587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_21
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f697b0e08e47f1810800000000000000
+      internalID: 1738236521205168495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_22
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa458b5c82e4b5c10800000000000000
+      internalID: 2043312792965502122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_23
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 13206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beb9a50e48e20470800000000000000
+      internalID: 8359499280153165494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c038d7eaf5ee6640800000000000000
+      internalID: 5075246695887417537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33c738b1fbf0e9d0800000000000000
+      internalID: -2746918757099650242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_26
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a5ac50c0e0a7bb0800000000000000
+      internalID: -4937618596658783721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_27
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd9f54cdb4aa9b80800000000000000
+      internalID: -8387210221073752619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_28
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87b32e46dba9250800000000000000
+      internalID: 5952278098513459388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_29
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba1ec5adeab3c1f0800000000000000
+      internalID: -1025770760258577743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_30
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ff329f3b3972a50800000000000000
+      internalID: 6496323388693544863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_31
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde267b47519b6c90800000000000000
+      internalID: -7175481777170534689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_32
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe519a9b33517640800000000000000
+      internalID: 5075929770484653818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_33
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a760803894e67c0800000000000000
+      internalID: -4076239785599534543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_34
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc6bd0c2251f2510800000000000000
+      internalID: 1526462037710564553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_35
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 12606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125275ef90d2d2a30800000000000000
+      internalID: 4192056349096879393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ee49dde2b44b3c0800000000000000
+      internalID: -4344765075847582133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_37
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8deaf6285746a80800000000000000
+      internalID: -8474519395724502791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_38
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1985b7afc22feeb0800000000000000
+      internalID: -4688490411802130147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_39
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb16412631a5bdec0800000000000000
+      internalID: -3541137642700381765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_40
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bb916a285a3ed70800000000000000
+      internalID: 9071276055005346585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_41
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23ca24ba5c27d8d0800000000000000
+      internalID: -2821737873442946260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_42
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a97d22cacb0060800000000000000
+      internalID: 6920848187720310835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_43
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3293a3038bb2d490800000000000000
+      internalID: -7722904239610817989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_44
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0736f032d72a40800000000000000
+      internalID: 5343470590629449241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_45
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1ca038cdbdf9e10800000000000000
+      internalID: 2206724082572640746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_46
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5454812b9a3729c90800000000000000
+      internalID: -7164536884518435515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_47
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 12006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799b9ebfb52f101a0800000000000000
+      internalID: -6844923481744098921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0fa2907c2ec6950800000000000000
+      internalID: 6443774511340515494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05336f8f30481f220800000000000000
+      internalID: 2517938819273470800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_50
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daee1647cfd3f00a0800000000000000
+      internalID: -6913238748496793939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_51
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121d270ac05495a60800000000000000
+      internalID: 7663232161481412897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_52
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a457712fb877b90800000000000000
+      internalID: -7244167603710244345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_53
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc11c4ee70ff3c80800000000000000
+      internalID: -8340683557072462654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_54
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c552a0cc4150a40800000000000000
+      internalID: 5333692200266325107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_55
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e08bb335c1dfc30800000000000000
+      internalID: 4394699955193253501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_56
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aecec46426ee180800000000000000
+      internalID: -9084215344281884045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_57
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2614cad10c36d2b0800000000000000
+      internalID: -5560190711279380945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_58
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f96d7ad95b5652e0800000000000000
+      internalID: -2137420531664852490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_59
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 11406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3e8ffdd3f8d8c30800000000000000
+      internalID: 4363301109905286131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b2cd5162a63db60800000000000000
+      internalID: 7769670493952289668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_61
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341803e86f3e8d4c0800000000000000
+      internalID: -4262406399219171005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_62
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a51b3822d6c3d50800000000000000
+      internalID: 6718364739135691280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_63
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e95e66a722eda3b0800000000000000
+      internalID: -5499490910025655837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_64
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ed500f61e7268e0800000000000000
+      internalID: -1701659072211329439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_65
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd0e9da87d9fe360800000000000000
+      internalID: 7201147470823165397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_66
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afedc568dc4026720800000000000000
+      internalID: 2837835995965873914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_67
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3830c178168bac340800000000000000
+      internalID: 4884919474854822787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_68
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f65339d5c84eb0800000000000000
+      internalID: -4735317471520165091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_69
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebabf76108eba92b0800000000000000
+      internalID: -5576935731202377026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_70
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340200b5d08c31140800000000000000
+      internalID: 4689311596709683267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_71
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 10806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b77ada29ca3f380800000000000000
+      internalID: -8938611089421665496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae58b29c183ed2b50800000000000000
+      internalID: 6570157577968780778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_73
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316ddb64767623370800000000000000
+      internalID: 8300810756463384083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_74
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2679969fbb172aa0800000000000000
+      internalID: -6185945053490743762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_75
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a637218c9dc40770800000000000000
+      internalID: 8576205662485690020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_76
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ce1399d26eef160800000000000000
+      internalID: 7061334349281618957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_77
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb91a147ce80e5a0800000000000000
+      internalID: -6494033676217508914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_78
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3057bbf0e909af010800000000000000
+      internalID: 1223449257327686915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_79
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb6967161e217890800000000000000
+      internalID: -7462132435159258192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_80
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ee785607a4ed840800000000000000
+      internalID: 5250716062160776803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_81
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e0ee98d835959a0800000000000000
+      internalID: -6243867541002908012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_82
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568cbe2f290efe490800000000000000
+      internalID: -7714700714916984731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_83
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 10206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a02c7347d18c3d0800000000000000
+      internalID: -3186264351375750541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe36814b9f5b32370800000000000000
+      internalID: 8296675022619567087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_85
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c745af5c44fdc970800000000000000
+      internalID: 8776939857674323911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_86
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737d0cd7b31dc9d80800000000000000
+      internalID: -8242483164551784649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_87
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baee91661e26c5f90800000000000000
+      internalID: -6963582203601490261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_88
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a482e828acbed29f0800000000000000
+      internalID: -491477529307240374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_89
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0be22f5532eb740800000000000000
+      internalID: 5169608274310246610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_90
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d56a73de57fa90800000000000000
+      internalID: -7280246010236511807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_91
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ac2a09a4800a370800000000000000
+      internalID: 8331668426982607507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_92
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00849055cab624360800000000000000
+      internalID: 7152397546122987520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_93
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5e9b7940aa4a600800000000000000
+      internalID: 478694397110248880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_94
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b352b2607e89b5330800000000000000
+      internalID: 3700719636823352635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_95
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 9606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9029dd5d563685d30800000000000000
+      internalID: 4420392323295056393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c59568d6b6b430a0800000000000000
+      internalID: -6902691432421288505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_97
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f02623297099640800000000000000
+      internalID: 5087105578583592855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_98
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f796ad060ff9f1870800000000000000
+      internalID: 8655812863595276671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_99
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdba5e7731645fb0800000000000000
+      internalID: -4659992823450649101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_100
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6d7edb6f3089e00800000000000000
+      internalID: 1051594871273936579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_101
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d679bdaff2cf500800000000000000
+      internalID: 431272418793188662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_102
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5f00238cef87430800000000000000
+      internalID: 3781052022963369391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_103
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48eb0cf7bb1a1de0800000000000000
+      internalID: -1361745460304549812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_104
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4555d31cec2857960800000000000000
+      internalID: 7599123770774476116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_105
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033c500dd7910c3e0800000000000000
+      internalID: -2035599003419819216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_106
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1018a1068041690800000000000000
+      internalID: -7632466259631603271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_107
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 9006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ed1efabd2dbd1c0800000000000000
+      internalID: -4477753563499340213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58fe25e5e5833290800000000000000
+      internalID: -7911832897920763812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_109
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cf08a6b86274c10800000000000000
+      internalID: 2037639736637586482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_110
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9b2ad4ec91c37c0800000000000000
+      internalID: -4090365987702785618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_111
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1008de9fe2d80980800000000000000
+      internalID: -8572369964095766500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_112
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716391d0e5c04c0f0800000000000000
+      internalID: -1097738811085343209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_113
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c36361cf55759720800000000000000
+      internalID: 2852314993135936454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_114
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212a5318e89771d00800000000000000
+      internalID: 943356299917500946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_115
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9807c3732638e60800000000000000
+      internalID: 7963316555497900475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_116
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0050ac5b47d9f9080800000000000000
+      internalID: -9178444390966098688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_117
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65c09394aae06e20800000000000000
+      internalID: 3341928916080182636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_118
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7084911af0f969510800000000000000
+      internalID: 1555605610779199495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_119
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 8406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0663b49e5259c10800000000000000
+      internalID: 2059594088511332559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf64a94f995e7d530800000000000000
+      internalID: 3879822053399480059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_121
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687223b97be137060800000000000000
+      internalID: 6949932423894411142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_122
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56742eb42152f2d90800000000000000
+      internalID: -7120431725336705179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_123
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc142922131e7080800000000000000
+      internalID: -9187885221068661513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_124
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bb7a411aeaeda10800000000000000
+      internalID: 1936176896675396495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_125
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5410a474bf10f8d40800000000000000
+      internalID: 5588687841334526277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_126
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd361b12fff6c8280800000000000000
+      internalID: -9039727210466810915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_127
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb17dac4fb5daf50800000000000000
+      internalID: 6894267711507340260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_128
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eb294681efb6b90800000000000000
+      internalID: -7247419794602672558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_129
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cac5cd0cdf66b20800000000000000
+      internalID: 3127465996027997193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_130
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34a0c81f75d9aee0800000000000000
+      internalID: -1249232679765760965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_131
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 7806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2794edab8be6c2f30800000000000000
+      internalID: 4552135063052896626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf10b74b476c9460800000000000000
+      internalID: 7249783073182588854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_133
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9aa1fa96421e930800000000000000
+      internalID: 4170654766249716215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_134
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0d5ffa1d8029030800000000000000
+      internalID: 3499869557113606330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_135
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934ada2a8140e4200800000000000000
+      internalID: 166074740114302009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_136
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4304d4b8e73f80b0800000000000000
+      internalID: -5724295128758877363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_137
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eccaaa234a8e4a0800000000000000
+      internalID: -6563815919373726066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_138
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b953b01b9f05e8880800000000000000
+      internalID: -8606852804511058533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_139
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d6ecfe986a63970800000000000000
+      internalID: 8734351638695669022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_140
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7080719d4fa6a7020800000000000000
+      internalID: 2340300556219123719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_141
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0e60ec30861d2a0800000000000000
+      internalID: -6714471203881951036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_142
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aac0fd8621879090800000000000000
+      internalID: -8027805808174511451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_143
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 7206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163d93a9f1228a8f0800000000000000
+      internalID: -529135437089221791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6277cbbf74c8f63c0800000000000000
+      internalID: -4364115273104722138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_145
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2e4d95ccc5c53a0800000000000000
+      internalID: -6675358514919710000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_146
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914f1456845e74850800000000000000
+      internalID: 6361305097783342105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_147
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f19df6708be33ce0800000000000000
+      internalID: -1426537719961644555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_148
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e58e36d03e94e0800000000000000
+      internalID: -1973085890011602280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_149
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62c64b47897575d0800000000000000
+      internalID: -3065410349365280147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_150
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615eb54b29f6849b0800000000000000
+      internalID: -5095700302487886570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_151
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78cc79ea75056170800000000000000
+      internalID: 8170943124395051135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_152
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8acaf96447a2800800000000000000
+      internalID: 588410548000696524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_153
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9ae180af3056a00800000000000000
+      internalID: 749009285439990177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_154
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c74ad3f02817de0800000000000000
+      internalID: -1337144612382016501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_155
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a668a4dd9fcde0c0800000000000000
+      internalID: -4544748172162341215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_156
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce8c541b6a09ce10800000000000000
+      internalID: 2218315746476068559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_157
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d748007aea7287fc0800000000000000
+      internalID: -3497001479573568387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_158
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ffc32d7adcd6270800000000000000
+      internalID: 8245472613455691674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_159
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc07b403551703f90800000000000000
+      internalID: -6975951212100489013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_160
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc529de615a198b70800000000000000
+      internalID: 8901675075528893903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_161
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2027589acce3af0800000000000000
+      internalID: -414669087211126082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_162
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f84dce10897494f0800000000000000
+      internalID: -822899240722413328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_163
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be7ef3b7837c91d0800000000000000
+      internalID: -3342669796738171214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_164
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8fa0fdb7b560580800000000000000
+      internalID: -8861294629223728974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_165
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a51627f77237640800000000000000
+      internalID: 5076444633309993549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_166
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca5bb0a89ea17c60800000000000000
+      internalID: 7814218799019416262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_167
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7012564fbf5e62a30800000000000000
+      internalID: 4190289373614645511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_168
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e315e2e9b5974f90800000000000000
+      internalID: -6969437272724401176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_169
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020a2dd88a0635920800000000000000
+      internalID: 2977830055672193056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_170
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc679e837f7b357a0800000000000000
+      internalID: -6389561173868972341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_171
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743deab840cadc580800000000000000
+      internalID: -8805192560916114617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_172
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2a519157b76dcf0800000000000000
+      internalID: -227858988273392963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_173
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15164a212c0db3ae0800000000000000
+      internalID: -1568430513253490351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_174
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0685136e66e2ad70800000000000000
+      internalID: 9053051562751264269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_175
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3224fc7dd764820800000000000000
+      internalID: 2902145375735522265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_176
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8374e8e2c3a26d0800000000000000
+      internalID: -3014530829917931345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_177
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7222b8aa24d8763c0800000000000000
+      internalID: -4366365996243803609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_178
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6bc0bb408e35530800000000000000
+      internalID: 3842670014092850874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_179
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c347d5aa88692a330800000000000000
+      internalID: 3720701755879420988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c302f796f9f7b35e0800000000000000
+      internalID: -1928807692751658948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_181
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558bce3b08b62e4f0800000000000000
+      internalID: -800959583199905707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_182
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acefb274835cec5a0800000000000000
+      internalID: -6499040366746140982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_183
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f127c5c3d657f1fd0800000000000000
+      internalID: -2369045766949015009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_184
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e495afee7ccc11300800000000000000
+      internalID: 221183015797807438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_185
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5a2c545cfec46f0800000000000000
+      internalID: -698920211591289366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_186
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde10e7c9c8488e0800000000000000
+      internalID: -1692072956227621436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_187
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5d1b7dfa7058020800000000000000
+      internalID: 2343287632935638436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_188
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed50b0b10b75d000800000000000000
+      internalID: 60089417228901861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_189
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc9f63579e892530800000000000000
+      internalID: 3830749738646347006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_190
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7da0becb2a2980800000000000000
+      internalID: -8562983574764160158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_191
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6563efe8ef41d50800000000000000
+      internalID: 6707265635165296317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb405008799a5c7c0800000000000000
+      internalID: -4051645821596924737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_193
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8162c7e23f7c5420800000000000000
+      internalID: 2620108939836154250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_194
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16227a6cbf0edde0800000000000000
+      internalID: -1306589539976731105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_195
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5464aa46a2c67a0c0800000000000000
+      internalID: -4564560767983401403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_196
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cce1e2e9b7ac100800000000000000
+      internalID: 129051458642299936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_197
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a249283779c3ccb0800000000000000
+      internalID: -4844807260240002393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_198
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01df3f6bff943df0800000000000000
+      internalID: -201360181072768755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_199
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29def25f0a3bea00800000000000000
+      internalID: 786786397397637422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_200
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84a0f9ee5d1245b0800000000000000
+      internalID: -5385709910892698481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_201
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72177926600568410800000000000000
+      internalID: 1478957515991904551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_202
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae626f491d0580dc0800000000000000
+      internalID: -3672596635043092758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_203
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84cfaab2830110c0800000000000000
+      internalID: -4606897083810593651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_204
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef03c592bb247150800000000000000
+      internalID: 5869364260387360750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_205
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811aa804305e91b20800000000000000
+      internalID: 3105765220179157272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_206
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eaf42af69e8cab0800000000000000
+      internalID: -4987479921639051754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_207
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cc2dd34465f8480800000000000000
+      internalID: -8894795887938450401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_208
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776b6efbd38170110800000000000000
+      internalID: 1226976076973389431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_209
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d50d5e060b14980800000000000000
+      internalID: -8556363886808244960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_210
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1291c76a7fe8733f0800000000000000
+      internalID: -921110404472760031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_211
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644dc094ffb7bfaf0800000000000000
+      internalID: -361559008700738490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_212
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd4bb7a02000c40800000000000000
+      internalID: 5476379390930902446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_213
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f73c01cc2c7abd50800000000000000
+      internalID: 6753847122854688760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_214
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcd37dd10eecab40800000000000000
+      internalID: 5452994940616563928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_215
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac771280b3e4c60800000000000000
+      internalID: 7804240110386924209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_216
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d757ed21930803e0800000000000000
+      internalID: -2087414505210947631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_217
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a036cf9da011a40800000000000000
+      internalID: 5337058964769278556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_218
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8295ccbc4eec46a80800000000000000
+      internalID: -8474421116737398488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_219
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fcc4140216dac90800000000000000
+      internalID: -7156957441659449488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_220
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd1562e720574060800000000000000
+      internalID: 6937601883219762684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_221
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b55fe1be10c0250800000000000000
+      internalID: 5912102520178957101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_222
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765c5ab5e97855150800000000000000
+      internalID: 5860739604304741735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_223
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57cfcc2e61290700800000000000000
+      internalID: 506973190137825115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_224
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ce48c81e02fb890800000000000000
+      internalID: -7440191906295518133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_225
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413efdcb04931e3b0800000000000000
+      internalID: -5485039920951074028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_226
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf09c64e98b8c6d10800000000000000
+      internalID: 2120222948943761660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_227
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db6c1adb3324a800800000000000000
+      internalID: 622661388453309400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_228
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa0776dab399a800800000000000000
+      internalID: 624192454038850303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_229
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0720c583e3cacbf0800000000000000
+      internalID: -303214642925132018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_230
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1e3f6d82a380890800000000000000
+      internalID: -7491674033051410004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_231
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccce6cd7182979c0800000000000000
+      internalID: -3929065116956439349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_232
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e2dba0cfc41990800000000000000
+      internalID: -7416074259948969203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_233
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b59871cde31ca30800000000000000
+      internalID: 4233734239713581890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_234
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4e2b7b057bc3850800000000000000
+      internalID: 6358158331247518928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_235
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2b009032cfba3a0800000000000000
+      internalID: -6652946797104680219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_236
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf8c5862ca1653e0800000000000000
+      internalID: -2065433956825919574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_237
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d110a898d1db1f7b0800000000000000
+      internalID: -5192160960822247139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_238
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03323b8b0c0dd310800000000000000
+      internalID: 1431313500293182219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_239
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c502453358d330800000000000000
+      internalID: 3735827379109873240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_240
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bee9a6707363b0d0800000000000000
+      internalID: -3408271158310998344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_241
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592d015f697553640800000000000000
+      internalID: 5059046062288851605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_242
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4169e20f5512a7140800000000000000
+      internalID: 4718120212609537556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_243
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e0254ab5fe04090800000000000000
+      internalID: -8052172956860543376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_244
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5378f2b26885e80800000000000000
+      internalID: -8189648402334140948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_245
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6bf9fe8d1e50b50800000000000000
+      internalID: 6558896754184402662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_246
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a08ded34a5a0150800000000000000
+      internalID: 5839579114387278342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_247
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a205a17209c2500800000000000000
+      internalID: 372831366784494203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_248
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c3a32cbe8c5d2b0800000000000000
+      internalID: -5560317250017543135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_249
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11e8f53f36032980800000000000000
+      internalID: -8564995197770342116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_250
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8829ea664a83142f0800000000000000
+      internalID: -990448164296289656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_251
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d90d0668f8e71c0800000000000000
+      internalID: -4504004770011243151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_252
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a7d578c7e087b0800000000000000
+      internalID: -5223920719593234285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_253
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1f8bd1b83b1eb70800000000000000
+      internalID: 8926613346505519540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_254
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649b4d888c73f38f0800000000000000
+      internalID: -558666494342022842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_255
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7691644fde6b1da0800000000000000
+      internalID: -5973058575572822403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_256
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d37ee2bc3626fd0800000000000000
+      internalID: -2350206331217560262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_257
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12ce5bec6d3d970800000000000000
+      internalID: 8778596281978987003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_258
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cebfe1c6bef0740800000000000000
+      internalID: 5120570150952365080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_259
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e69489aed2e913c0800000000000000
+      internalID: -4388226915941181720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_260
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c566e2722e5f40800000000000000
+      internalID: 5719046453694153160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_261
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adf0e166fc0c8440800000000000000
+      internalID: 4939337143662214561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_262
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579cac4464417a210800000000000000
+      internalID: 1344065305827789173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_263
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61332337a0ed230d0800000000000000
+      internalID: -3444446628521299178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_264
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c91986fc78d973b0800000000000000
+      internalID: -5514138237514737207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_265
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae83e1abcd67a7e0800000000000000
+      internalID: -1754312808475685210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_266
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9b112f3be9cd330800000000000000
+      internalID: 3737036286508251622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_267
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353ba91a6ad562570800000000000000
+      internalID: 8441537521809797971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_268
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c53a9d4b1a7fc0e0800000000000000
+      internalID: -2247443431349930555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_269
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bacf626d69b9c490800000000000000
+      internalID: -7725439806323307854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_270
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b821ab4d4675a1a70800000000000000
+      internalID: 8798440912598995595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_271
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b69e7b8bbefa300800000000000000
+      internalID: 265690081630186373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_272
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c03a1f2567a2b20800000000000000
+      internalID: 3110428591266139151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_273
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5bbefd07f738b50800000000000000
+      internalID: 6594254402170369471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_274
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc1fa70ef9d65c0800000000000000
+      internalID: -4220541489292128879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_275
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4024af7be08b7d0c0800000000000000
+      internalID: -4550966525078912508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_276
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d797735b4e13c20800000000000000
+      internalID: 3184577878498573635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_277
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd82bc6bebfd3c730800000000000000
+      internalID: 4018301302748162271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_278
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b836f00a15cbf060800000000000000
+      internalID: 6988395962271414453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_279
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1873bf662fd96bf0800000000000000
+      internalID: -330487741459236837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_280
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40d089e082abad30800000000000000
+      internalID: 4443824131888173135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_281
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b6537e09bac5340800000000000000
+      internalID: 4853943137241230101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_282
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31d929715194c670800000000000000
+      internalID: 8558124971021947196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_283
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfda6bb3d7c07650800000000000000
+      internalID: 6228697996849766323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_284
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579d8b14775787a30800000000000000
+      internalID: 4213246606469290357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_285
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75563e32853b66860800000000000000
+      internalID: 7522897418709591383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_286
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff31e8599c989d0800000000000000
+      internalID: -2771462451498844411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liq_sol_torr_blue_287
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c388fa410f573da60800000000000000
+      internalID: 7697625862105958460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      liq_sol_torr_blue_0: -6820210663248159956
+      liq_sol_torr_blue_1: 3290495059623652761
+      liq_sol_torr_blue_10: -5778669983480826436
+      liq_sol_torr_blue_100: 1051594871273936579
+      liq_sol_torr_blue_101: 431272418793188662
+      liq_sol_torr_blue_102: 3781052022963369391
+      liq_sol_torr_blue_103: -1361745460304549812
+      liq_sol_torr_blue_104: 7599123770774476116
+      liq_sol_torr_blue_105: -2035599003419819216
+      liq_sol_torr_blue_106: -7632466259631603271
+      liq_sol_torr_blue_107: -4477753563499340213
+      liq_sol_torr_blue_108: -7911832897920763812
+      liq_sol_torr_blue_109: 2037639736637586482
+      liq_sol_torr_blue_11: -899560602338060697
+      liq_sol_torr_blue_110: -4090365987702785618
+      liq_sol_torr_blue_111: -8572369964095766500
+      liq_sol_torr_blue_112: -1097738811085343209
+      liq_sol_torr_blue_113: 2852314993135936454
+      liq_sol_torr_blue_114: 943356299917500946
+      liq_sol_torr_blue_115: 7963316555497900475
+      liq_sol_torr_blue_116: -9178444390966098688
+      liq_sol_torr_blue_117: 3341928916080182636
+      liq_sol_torr_blue_118: 1555605610779199495
+      liq_sol_torr_blue_119: 2059594088511332559
+      liq_sol_torr_blue_12: -9181755518234455145
+      liq_sol_torr_blue_120: 3879822053399480059
+      liq_sol_torr_blue_121: 6949932423894411142
+      liq_sol_torr_blue_122: -7120431725336705179
+      liq_sol_torr_blue_123: -9187885221068661513
+      liq_sol_torr_blue_124: 1936176896675396495
+      liq_sol_torr_blue_125: 5588687841334526277
+      liq_sol_torr_blue_126: -9039727210466810915
+      liq_sol_torr_blue_127: 6894267711507340260
+      liq_sol_torr_blue_128: -7247419794602672558
+      liq_sol_torr_blue_129: 3127465996027997193
+      liq_sol_torr_blue_13: 3900341178793306040
+      liq_sol_torr_blue_130: -1249232679765760965
+      liq_sol_torr_blue_131: 4552135063052896626
+      liq_sol_torr_blue_132: 7249783073182588854
+      liq_sol_torr_blue_133: 4170654766249716215
+      liq_sol_torr_blue_134: 3499869557113606330
+      liq_sol_torr_blue_135: 166074740114302009
+      liq_sol_torr_blue_136: -5724295128758877363
+      liq_sol_torr_blue_137: -6563815919373726066
+      liq_sol_torr_blue_138: -8606852804511058533
+      liq_sol_torr_blue_139: 8734351638695669022
+      liq_sol_torr_blue_14: 233388071996008164
+      liq_sol_torr_blue_140: 2340300556219123719
+      liq_sol_torr_blue_141: -6714471203881951036
+      liq_sol_torr_blue_142: -8027805808174511451
+      liq_sol_torr_blue_143: -529135437089221791
+      liq_sol_torr_blue_144: -4364115273104722138
+      liq_sol_torr_blue_145: -6675358514919710000
+      liq_sol_torr_blue_146: 6361305097783342105
+      liq_sol_torr_blue_147: -1426537719961644555
+      liq_sol_torr_blue_148: -1973085890011602280
+      liq_sol_torr_blue_149: -3065410349365280147
+      liq_sol_torr_blue_15: 1465601301598675556
+      liq_sol_torr_blue_150: -5095700302487886570
+      liq_sol_torr_blue_151: 8170943124395051135
+      liq_sol_torr_blue_152: 588410548000696524
+      liq_sol_torr_blue_153: 749009285439990177
+      liq_sol_torr_blue_154: -1337144612382016501
+      liq_sol_torr_blue_155: -4544748172162341215
+      liq_sol_torr_blue_156: 2218315746476068559
+      liq_sol_torr_blue_157: -3497001479573568387
+      liq_sol_torr_blue_158: 8245472613455691674
+      liq_sol_torr_blue_159: -6975951212100489013
+      liq_sol_torr_blue_16: -8335057341021463444
+      liq_sol_torr_blue_160: 8901675075528893903
+      liq_sol_torr_blue_161: -414669087211126082
+      liq_sol_torr_blue_162: -822899240722413328
+      liq_sol_torr_blue_163: -3342669796738171214
+      liq_sol_torr_blue_164: -8861294629223728974
+      liq_sol_torr_blue_165: 5076444633309993549
+      liq_sol_torr_blue_166: 7814218799019416262
+      liq_sol_torr_blue_167: 4190289373614645511
+      liq_sol_torr_blue_168: -6969437272724401176
+      liq_sol_torr_blue_169: 2977830055672193056
+      liq_sol_torr_blue_17: -8436818500700325528
+      liq_sol_torr_blue_170: -6389561173868972341
+      liq_sol_torr_blue_171: -8805192560916114617
+      liq_sol_torr_blue_172: -227858988273392963
+      liq_sol_torr_blue_173: -1568430513253490351
+      liq_sol_torr_blue_174: 9053051562751264269
+      liq_sol_torr_blue_175: 2902145375735522265
+      liq_sol_torr_blue_176: -3014530829917931345
+      liq_sol_torr_blue_177: -4366365996243803609
+      liq_sol_torr_blue_178: 3842670014092850874
+      liq_sol_torr_blue_179: 3720701755879420988
+      liq_sol_torr_blue_18: -597301882432117046
+      liq_sol_torr_blue_180: -1928807692751658948
+      liq_sol_torr_blue_181: -800959583199905707
+      liq_sol_torr_blue_182: -6499040366746140982
+      liq_sol_torr_blue_183: -2369045766949015009
+      liq_sol_torr_blue_184: 221183015797807438
+      liq_sol_torr_blue_185: -698920211591289366
+      liq_sol_torr_blue_186: -1692072956227621436
+      liq_sol_torr_blue_187: 2343287632935638436
+      liq_sol_torr_blue_188: 60089417228901861
+      liq_sol_torr_blue_189: 3830749738646347006
+      liq_sol_torr_blue_19: -2750660483129045242
+      liq_sol_torr_blue_190: -8562983574764160158
+      liq_sol_torr_blue_191: 6707265635165296317
+      liq_sol_torr_blue_192: -4051645821596924737
+      liq_sol_torr_blue_193: 2620108939836154250
+      liq_sol_torr_blue_194: -1306589539976731105
+      liq_sol_torr_blue_195: -4564560767983401403
+      liq_sol_torr_blue_196: 129051458642299936
+      liq_sol_torr_blue_197: -4844807260240002393
+      liq_sol_torr_blue_198: -201360181072768755
+      liq_sol_torr_blue_199: 786786397397637422
+      liq_sol_torr_blue_2: 6145144814269440691
+      liq_sol_torr_blue_20: 3409181283114194587
+      liq_sol_torr_blue_200: -5385709910892698481
+      liq_sol_torr_blue_201: 1478957515991904551
+      liq_sol_torr_blue_202: -3672596635043092758
+      liq_sol_torr_blue_203: -4606897083810593651
+      liq_sol_torr_blue_204: 5869364260387360750
+      liq_sol_torr_blue_205: 3105765220179157272
+      liq_sol_torr_blue_206: -4987479921639051754
+      liq_sol_torr_blue_207: -8894795887938450401
+      liq_sol_torr_blue_208: 1226976076973389431
+      liq_sol_torr_blue_209: -8556363886808244960
+      liq_sol_torr_blue_21: 1738236521205168495
+      liq_sol_torr_blue_210: -921110404472760031
+      liq_sol_torr_blue_211: -361559008700738490
+      liq_sol_torr_blue_212: 5476379390930902446
+      liq_sol_torr_blue_213: 6753847122854688760
+      liq_sol_torr_blue_214: 5452994940616563928
+      liq_sol_torr_blue_215: 7804240110386924209
+      liq_sol_torr_blue_216: -2087414505210947631
+      liq_sol_torr_blue_217: 5337058964769278556
+      liq_sol_torr_blue_218: -8474421116737398488
+      liq_sol_torr_blue_219: -7156957441659449488
+      liq_sol_torr_blue_22: 2043312792965502122
+      liq_sol_torr_blue_220: 6937601883219762684
+      liq_sol_torr_blue_221: 5912102520178957101
+      liq_sol_torr_blue_222: 5860739604304741735
+      liq_sol_torr_blue_223: 506973190137825115
+      liq_sol_torr_blue_224: -7440191906295518133
+      liq_sol_torr_blue_225: -5485039920951074028
+      liq_sol_torr_blue_226: 2120222948943761660
+      liq_sol_torr_blue_227: 622661388453309400
+      liq_sol_torr_blue_228: 624192454038850303
+      liq_sol_torr_blue_229: -303214642925132018
+      liq_sol_torr_blue_23: 8359499280153165494
+      liq_sol_torr_blue_230: -7491674033051410004
+      liq_sol_torr_blue_231: -3929065116956439349
+      liq_sol_torr_blue_232: -7416074259948969203
+      liq_sol_torr_blue_233: 4233734239713581890
+      liq_sol_torr_blue_234: 6358158331247518928
+      liq_sol_torr_blue_235: -6652946797104680219
+      liq_sol_torr_blue_236: -2065433956825919574
+      liq_sol_torr_blue_237: -5192160960822247139
+      liq_sol_torr_blue_238: 1431313500293182219
+      liq_sol_torr_blue_239: 3735827379109873240
+      liq_sol_torr_blue_24: 5075246695887417537
+      liq_sol_torr_blue_240: -3408271158310998344
+      liq_sol_torr_blue_241: 5059046062288851605
+      liq_sol_torr_blue_242: 4718120212609537556
+      liq_sol_torr_blue_243: -8052172956860543376
+      liq_sol_torr_blue_244: -8189648402334140948
+      liq_sol_torr_blue_245: 6558896754184402662
+      liq_sol_torr_blue_246: 5839579114387278342
+      liq_sol_torr_blue_247: 372831366784494203
+      liq_sol_torr_blue_248: -5560317250017543135
+      liq_sol_torr_blue_249: -8564995197770342116
+      liq_sol_torr_blue_25: -2746918757099650242
+      liq_sol_torr_blue_250: -990448164296289656
+      liq_sol_torr_blue_251: -4504004770011243151
+      liq_sol_torr_blue_252: -5223920719593234285
+      liq_sol_torr_blue_253: 8926613346505519540
+      liq_sol_torr_blue_254: -558666494342022842
+      liq_sol_torr_blue_255: -5973058575572822403
+      liq_sol_torr_blue_256: -2350206331217560262
+      liq_sol_torr_blue_257: 8778596281978987003
+      liq_sol_torr_blue_258: 5120570150952365080
+      liq_sol_torr_blue_259: -4388226915941181720
+      liq_sol_torr_blue_26: -4937618596658783721
+      liq_sol_torr_blue_260: 5719046453694153160
+      liq_sol_torr_blue_261: 4939337143662214561
+      liq_sol_torr_blue_262: 1344065305827789173
+      liq_sol_torr_blue_263: -3444446628521299178
+      liq_sol_torr_blue_264: -5514138237514737207
+      liq_sol_torr_blue_265: -1754312808475685210
+      liq_sol_torr_blue_266: 3737036286508251622
+      liq_sol_torr_blue_267: 8441537521809797971
+      liq_sol_torr_blue_268: -2247443431349930555
+      liq_sol_torr_blue_269: -7725439806323307854
+      liq_sol_torr_blue_27: -8387210221073752619
+      liq_sol_torr_blue_270: 8798440912598995595
+      liq_sol_torr_blue_271: 265690081630186373
+      liq_sol_torr_blue_272: 3110428591266139151
+      liq_sol_torr_blue_273: 6594254402170369471
+      liq_sol_torr_blue_274: -4220541489292128879
+      liq_sol_torr_blue_275: -4550966525078912508
+      liq_sol_torr_blue_276: 3184577878498573635
+      liq_sol_torr_blue_277: 4018301302748162271
+      liq_sol_torr_blue_278: 6988395962271414453
+      liq_sol_torr_blue_279: -330487741459236837
+      liq_sol_torr_blue_28: 5952278098513459388
+      liq_sol_torr_blue_280: 4443824131888173135
+      liq_sol_torr_blue_281: 4853943137241230101
+      liq_sol_torr_blue_282: 8558124971021947196
+      liq_sol_torr_blue_283: 6228697996849766323
+      liq_sol_torr_blue_284: 4213246606469290357
+      liq_sol_torr_blue_285: 7522897418709591383
+      liq_sol_torr_blue_286: -2771462451498844411
+      liq_sol_torr_blue_287: 7697625862105958460
+      liq_sol_torr_blue_29: -1025770760258577743
+      liq_sol_torr_blue_3: 7324814327414153007
+      liq_sol_torr_blue_30: 6496323388693544863
+      liq_sol_torr_blue_31: -7175481777170534689
+      liq_sol_torr_blue_32: 5075929770484653818
+      liq_sol_torr_blue_33: -4076239785599534543
+      liq_sol_torr_blue_34: 1526462037710564553
+      liq_sol_torr_blue_35: 4192056349096879393
+      liq_sol_torr_blue_36: -4344765075847582133
+      liq_sol_torr_blue_37: -8474519395724502791
+      liq_sol_torr_blue_38: -4688490411802130147
+      liq_sol_torr_blue_39: -3541137642700381765
+      liq_sol_torr_blue_4: -6092170254031673193
+      liq_sol_torr_blue_40: 9071276055005346585
+      liq_sol_torr_blue_41: -2821737873442946260
+      liq_sol_torr_blue_42: 6920848187720310835
+      liq_sol_torr_blue_43: -7722904239610817989
+      liq_sol_torr_blue_44: 5343470590629449241
+      liq_sol_torr_blue_45: 2206724082572640746
+      liq_sol_torr_blue_46: -7164536884518435515
+      liq_sol_torr_blue_47: -6844923481744098921
+      liq_sol_torr_blue_48: 6443774511340515494
+      liq_sol_torr_blue_49: 2517938819273470800
+      liq_sol_torr_blue_5: 4147455860206226937
+      liq_sol_torr_blue_50: -6913238748496793939
+      liq_sol_torr_blue_51: 7663232161481412897
+      liq_sol_torr_blue_52: -7244167603710244345
+      liq_sol_torr_blue_53: -8340683557072462654
+      liq_sol_torr_blue_54: 5333692200266325107
+      liq_sol_torr_blue_55: 4394699955193253501
+      liq_sol_torr_blue_56: -9084215344281884045
+      liq_sol_torr_blue_57: -5560190711279380945
+      liq_sol_torr_blue_58: -2137420531664852490
+      liq_sol_torr_blue_59: 4363301109905286131
+      liq_sol_torr_blue_6: 601911431841009943
+      liq_sol_torr_blue_60: 7769670493952289668
+      liq_sol_torr_blue_61: -4262406399219171005
+      liq_sol_torr_blue_62: 6718364739135691280
+      liq_sol_torr_blue_63: -5499490910025655837
+      liq_sol_torr_blue_64: -1701659072211329439
+      liq_sol_torr_blue_65: 7201147470823165397
+      liq_sol_torr_blue_66: 2837835995965873914
+      liq_sol_torr_blue_67: 4884919474854822787
+      liq_sol_torr_blue_68: -4735317471520165091
+      liq_sol_torr_blue_69: -5576935731202377026
+      liq_sol_torr_blue_7: 2664245027205860790
+      liq_sol_torr_blue_70: 4689311596709683267
+      liq_sol_torr_blue_71: -8938611089421665496
+      liq_sol_torr_blue_72: 6570157577968780778
+      liq_sol_torr_blue_73: 8300810756463384083
+      liq_sol_torr_blue_74: -6185945053490743762
+      liq_sol_torr_blue_75: 8576205662485690020
+      liq_sol_torr_blue_76: 7061334349281618957
+      liq_sol_torr_blue_77: -6494033676217508914
+      liq_sol_torr_blue_78: 1223449257327686915
+      liq_sol_torr_blue_79: -7462132435159258192
+      liq_sol_torr_blue_8: -5653921223250389011
+      liq_sol_torr_blue_80: 5250716062160776803
+      liq_sol_torr_blue_81: -6243867541002908012
+      liq_sol_torr_blue_82: -7714700714916984731
+      liq_sol_torr_blue_83: -3186264351375750541
+      liq_sol_torr_blue_84: 8296675022619567087
+      liq_sol_torr_blue_85: 8776939857674323911
+      liq_sol_torr_blue_86: -8242483164551784649
+      liq_sol_torr_blue_87: -6963582203601490261
+      liq_sol_torr_blue_88: -491477529307240374
+      liq_sol_torr_blue_89: 5169608274310246610
+      liq_sol_torr_blue_9: 8482343931938357044
+      liq_sol_torr_blue_90: -7280246010236511807
+      liq_sol_torr_blue_91: 8331668426982607507
+      liq_sol_torr_blue_92: 7152397546122987520
+      liq_sol_torr_blue_93: 478694397110248880
+      liq_sol_torr_blue_94: 3700719636823352635
+      liq_sol_torr_blue_95: 4420392323295056393
+      liq_sol_torr_blue_96: -6902691432421288505
+      liq_sol_torr_blue_97: 5087105578583592855
+      liq_sol_torr_blue_98: 8655812863595276671
+      liq_sol_torr_blue_99: -4659992823450649101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

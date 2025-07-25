@@ -1,0 +1,3874 @@
+fileFormatVersion: 2
+guid: 1fe4f069b83af474cb9331d5dca23288
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7257726043898732366
+    second: solid_sol_ton_blue_0
+  - first:
+      213: 5001846641469793057
+    second: solid_sol_ton_blue_1
+  - first:
+      213: 8500451811626996278
+    second: solid_sol_ton_blue_2
+  - first:
+      213: 3756105188500660767
+    second: solid_sol_ton_blue_3
+  - first:
+      213: 5356601359462833734
+    second: solid_sol_ton_blue_4
+  - first:
+      213: -1344811266419336716
+    second: solid_sol_ton_blue_5
+  - first:
+      213: -6523717252739591088
+    second: solid_sol_ton_blue_6
+  - first:
+      213: -1749595302430296803
+    second: solid_sol_ton_blue_7
+  - first:
+      213: -4456965144730437349
+    second: solid_sol_ton_blue_8
+  - first:
+      213: 4882080301284954042
+    second: solid_sol_ton_blue_9
+  - first:
+      213: 2314653470000754422
+    second: solid_sol_ton_blue_10
+  - first:
+      213: -5666599493378418517
+    second: solid_sol_ton_blue_11
+  - first:
+      213: 1593849815734702906
+    second: solid_sol_ton_blue_12
+  - first:
+      213: 974342976474961512
+    second: solid_sol_ton_blue_13
+  - first:
+      213: -2338457901642113232
+    second: solid_sol_ton_blue_14
+  - first:
+      213: 7907483549088393143
+    second: solid_sol_ton_blue_15
+  - first:
+      213: 6094032110597959089
+    second: solid_sol_ton_blue_16
+  - first:
+      213: -7712278007002436495
+    second: solid_sol_ton_blue_17
+  - first:
+      213: -4281527241395648383
+    second: solid_sol_ton_blue_18
+  - first:
+      213: -4874089779672959784
+    second: solid_sol_ton_blue_19
+  - first:
+      213: -8348584367424307530
+    second: solid_sol_ton_blue_20
+  - first:
+      213: -1127536696029421325
+    second: solid_sol_ton_blue_21
+  - first:
+      213: 7780395288981355261
+    second: solid_sol_ton_blue_22
+  - first:
+      213: -8844052145296992528
+    second: solid_sol_ton_blue_23
+  - first:
+      213: 6937652343458797604
+    second: solid_sol_ton_blue_24
+  - first:
+      213: 2359930043674173824
+    second: solid_sol_ton_blue_25
+  - first:
+      213: -8048948835214023097
+    second: solid_sol_ton_blue_26
+  - first:
+      213: 5701938831125361711
+    second: solid_sol_ton_blue_27
+  - first:
+      213: 7551128262161081631
+    second: solid_sol_ton_blue_28
+  - first:
+      213: -3879851113502646585
+    second: solid_sol_ton_blue_29
+  - first:
+      213: -8489081067647870229
+    second: solid_sol_ton_blue_30
+  - first:
+      213: -1037695673814471877
+    second: solid_sol_ton_blue_31
+  - first:
+      213: -3047174391622789320
+    second: solid_sol_ton_blue_32
+  - first:
+      213: 3818695633075118488
+    second: solid_sol_ton_blue_33
+  - first:
+      213: -6530513618887082394
+    second: solid_sol_ton_blue_34
+  - first:
+      213: 2750542695498894752
+    second: solid_sol_ton_blue_35
+  - first:
+      213: 4824937027727633640
+    second: solid_sol_ton_blue_36
+  - first:
+      213: 8216679379593545284
+    second: solid_sol_ton_blue_37
+  - first:
+      213: 6153355587895802474
+    second: solid_sol_ton_blue_38
+  - first:
+      213: 4719656987111624677
+    second: solid_sol_ton_blue_39
+  - first:
+      213: -1160570925421876700
+    second: solid_sol_ton_blue_40
+  - first:
+      213: 1595908924398398510
+    second: solid_sol_ton_blue_41
+  - first:
+      213: 1278637856443140320
+    second: solid_sol_ton_blue_42
+  - first:
+      213: 6373880792299547087
+    second: solid_sol_ton_blue_43
+  - first:
+      213: 4692126646600104815
+    second: solid_sol_ton_blue_44
+  - first:
+      213: -2277869809977509891
+    second: solid_sol_ton_blue_45
+  - first:
+      213: -640791740883072188
+    second: solid_sol_ton_blue_46
+  - first:
+      213: 4297642862067457878
+    second: solid_sol_ton_blue_47
+  - first:
+      213: -1874583107289329991
+    second: solid_sol_ton_blue_48
+  - first:
+      213: -837448314072121520
+    second: solid_sol_ton_blue_49
+  - first:
+      213: -5838326287669621356
+    second: solid_sol_ton_blue_50
+  - first:
+      213: 1186734168057707323
+    second: solid_sol_ton_blue_51
+  - first:
+      213: 7344849921072562180
+    second: solid_sol_ton_blue_52
+  - first:
+      213: 8694598670882687687
+    second: solid_sol_ton_blue_53
+  - first:
+      213: 831686111435698588
+    second: solid_sol_ton_blue_54
+  - first:
+      213: -508372322434235540
+    second: solid_sol_ton_blue_55
+  - first:
+      213: -3700071055709652229
+    second: solid_sol_ton_blue_56
+  - first:
+      213: -161770496041183738
+    second: solid_sol_ton_blue_57
+  - first:
+      213: -941565470862825381
+    second: solid_sol_ton_blue_58
+  - first:
+      213: -6708806049674156075
+    second: solid_sol_ton_blue_59
+  - first:
+      213: 7773273079643846933
+    second: solid_sol_ton_blue_60
+  - first:
+      213: 1962298212766705457
+    second: solid_sol_ton_blue_61
+  - first:
+      213: -9056462100541876640
+    second: solid_sol_ton_blue_62
+  - first:
+      213: -3744906329691627747
+    second: solid_sol_ton_blue_63
+  - first:
+      213: -823354650026865212
+    second: solid_sol_ton_blue_64
+  - first:
+      213: 5886323684793628943
+    second: solid_sol_ton_blue_65
+  - first:
+      213: -753957608147470082
+    second: solid_sol_ton_blue_66
+  - first:
+      213: 1843612978297770242
+    second: solid_sol_ton_blue_67
+  - first:
+      213: -8903496706022554789
+    second: solid_sol_ton_blue_68
+  - first:
+      213: -821412161126676906
+    second: solid_sol_ton_blue_69
+  - first:
+      213: -6350624421575508816
+    second: solid_sol_ton_blue_70
+  - first:
+      213: 940713721350841744
+    second: solid_sol_ton_blue_71
+  - first:
+      213: 111513325349907856
+    second: solid_sol_ton_blue_72
+  - first:
+      213: 2920561565462959205
+    second: solid_sol_ton_blue_73
+  - first:
+      213: 5449491880429902707
+    second: solid_sol_ton_blue_74
+  - first:
+      213: -4421006891336558523
+    second: solid_sol_ton_blue_75
+  - first:
+      213: 8437618159447005678
+    second: solid_sol_ton_blue_76
+  - first:
+      213: -5753247635618648560
+    second: solid_sol_ton_blue_77
+  - first:
+      213: -8922083010252673846
+    second: solid_sol_ton_blue_78
+  - first:
+      213: 8935309343326237362
+    second: solid_sol_ton_blue_79
+  - first:
+      213: -7946524398864005537
+    second: solid_sol_ton_blue_80
+  - first:
+      213: -4932137125425846404
+    second: solid_sol_ton_blue_81
+  - first:
+      213: 3717329542375132479
+    second: solid_sol_ton_blue_82
+  - first:
+      213: 1694661317153247621
+    second: solid_sol_ton_blue_83
+  - first:
+      213: -2295713421921685601
+    second: solid_sol_ton_blue_84
+  - first:
+      213: 5279999568211610877
+    second: solid_sol_ton_blue_85
+  - first:
+      213: 1646872765627174217
+    second: solid_sol_ton_blue_86
+  - first:
+      213: 2071245560515700871
+    second: solid_sol_ton_blue_87
+  - first:
+      213: -4821704772585742788
+    second: solid_sol_ton_blue_88
+  - first:
+      213: 1536625851746114401
+    second: solid_sol_ton_blue_89
+  - first:
+      213: -7321625354650376331
+    second: solid_sol_ton_blue_90
+  - first:
+      213: 4686747988243617196
+    second: solid_sol_ton_blue_91
+  - first:
+      213: 610365831175005413
+    second: solid_sol_ton_blue_92
+  - first:
+      213: 2292511308891880836
+    second: solid_sol_ton_blue_93
+  - first:
+      213: 7309250670604942946
+    second: solid_sol_ton_blue_94
+  - first:
+      213: -4049833674535657151
+    second: solid_sol_ton_blue_95
+  - first:
+      213: 4674088244262712478
+    second: solid_sol_ton_blue_96
+  - first:
+      213: -7166479191834551328
+    second: solid_sol_ton_blue_97
+  - first:
+      213: -3534823210328405852
+    second: solid_sol_ton_blue_98
+  - first:
+      213: -7702659412686491916
+    second: solid_sol_ton_blue_99
+  - first:
+      213: -2537775989421201663
+    second: solid_sol_ton_blue_100
+  - first:
+      213: 7474128323972326488
+    second: solid_sol_ton_blue_101
+  - first:
+      213: 5350865572966491172
+    second: solid_sol_ton_blue_102
+  - first:
+      213: 6530291575392644136
+    second: solid_sol_ton_blue_103
+  - first:
+      213: 8276076261486029519
+    second: solid_sol_ton_blue_104
+  - first:
+      213: 8592031810227263841
+    second: solid_sol_ton_blue_105
+  - first:
+      213: -2753006753502090974
+    second: solid_sol_ton_blue_106
+  - first:
+      213: -3194563294509176309
+    second: solid_sol_ton_blue_107
+  - first:
+      213: -5538307502290384706
+    second: solid_sol_ton_blue_108
+  - first:
+      213: -1718970811632739482
+    second: solid_sol_ton_blue_109
+  - first:
+      213: 5551200804712519810
+    second: solid_sol_ton_blue_110
+  - first:
+      213: -3602982417415277206
+    second: solid_sol_ton_blue_111
+  - first:
+      213: 4944941980510828713
+    second: solid_sol_ton_blue_112
+  - first:
+      213: 117673926324026276
+    second: solid_sol_ton_blue_113
+  - first:
+      213: -7256031038445960443
+    second: solid_sol_ton_blue_114
+  - first:
+      213: 5689039468636150397
+    second: solid_sol_ton_blue_115
+  - first:
+      213: -6471190013238202694
+    second: solid_sol_ton_blue_116
+  - first:
+      213: -6756541867162419558
+    second: solid_sol_ton_blue_117
+  - first:
+      213: -28915437346600649
+    second: solid_sol_ton_blue_118
+  - first:
+      213: 6790718070836051930
+    second: solid_sol_ton_blue_119
+  - first:
+      213: -2179343906516959891
+    second: solid_sol_ton_blue_120
+  - first:
+      213: 7134580090871356850
+    second: solid_sol_ton_blue_121
+  - first:
+      213: 8270513869803217801
+    second: solid_sol_ton_blue_122
+  - first:
+      213: 9133160793306269031
+    second: solid_sol_ton_blue_123
+  - first:
+      213: 7616337571655764573
+    second: solid_sol_ton_blue_124
+  - first:
+      213: 295545378918412611
+    second: solid_sol_ton_blue_125
+  - first:
+      213: -8667029574360003330
+    second: solid_sol_ton_blue_126
+  - first:
+      213: 773187098930042011
+    second: solid_sol_ton_blue_127
+  - first:
+      213: 3200402152971259636
+    second: solid_sol_ton_blue_128
+  - first:
+      213: 9008160658076265278
+    second: solid_sol_ton_blue_129
+  - first:
+      213: -2321589308181949569
+    second: solid_sol_ton_blue_130
+  - first:
+      213: 3448743416120223666
+    second: solid_sol_ton_blue_131
+  - first:
+      213: 5553390303793713880
+    second: solid_sol_ton_blue_132
+  - first:
+      213: 8540434481232582519
+    second: solid_sol_ton_blue_133
+  - first:
+      213: 2412337318755885923
+    second: solid_sol_ton_blue_134
+  - first:
+      213: -5561026846990457906
+    second: solid_sol_ton_blue_135
+  - first:
+      213: -4093622248208163343
+    second: solid_sol_ton_blue_136
+  - first:
+      213: 7631347010057493613
+    second: solid_sol_ton_blue_137
+  - first:
+      213: -493490935353545643
+    second: solid_sol_ton_blue_138
+  - first:
+      213: -1348061374098468289
+    second: solid_sol_ton_blue_139
+  - first:
+      213: 7174176520026069771
+    second: solid_sol_ton_blue_140
+  - first:
+      213: 7053030559488599431
+    second: solid_sol_ton_blue_141
+  - first:
+      213: 1887669166232098278
+    second: solid_sol_ton_blue_142
+  - first:
+      213: -6077027211721325063
+    second: solid_sol_ton_blue_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f5fa3426f98b460800000000000000
+      internalID: 7257726043898732366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123a9cdf4012a6540800000000000000
+      internalID: 5001846641469793057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6325a56a2eba7f570800000000000000
+      internalID: 8500451811626996278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_3
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12659ba4cd502430800000000000000
+      internalID: 3756105188500660767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_4
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e18225e88765a40800000000000000
+      internalID: 5356601359462833734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_5
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9d12f3745465de0800000000000000
+      internalID: -1344811266419336716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_6
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0549e5709b91775a0800000000000000
+      internalID: -6523717252739591088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_7
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1533f9975038b7e0800000000000000
+      internalID: -1749595302430296803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_8
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b197b0c90dda522c0800000000000000
+      internalID: -4456965144730437349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_9
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf850bea22a0c340800000000000000
+      internalID: 4882080301284954042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_10
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2581411d4f1020800000000000000
+      internalID: 2314653470000754422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_11
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba855c0a8c13c51b0800000000000000
+      internalID: -5666599493378418517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33503c76fd7e1610800000000000000
+      internalID: 1593849815734702906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866df2a56cf858d00800000000000000
+      internalID: 974342976474961512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f9a6a9de02c8fd0800000000000000
+      internalID: -2338457901642113232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_15
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7a8aa64660dbd60800000000000000
+      internalID: 7907483549088393143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_16
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bde302cae9529450800000000000000
+      internalID: 6094032110597959089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_17
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cef87930c78f490800000000000000
+      internalID: -7712278007002436495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_18
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188447098a5f494c0800000000000000
+      internalID: -4281527241395648383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_19
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d43b3f5b21cb5cb0800000000000000
+      internalID: -4874089779672959784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_20
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be7b4220ced32c80800000000000000
+      internalID: -8348584367424307530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_21
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0e2f1595f2a50f0800000000000000
+      internalID: -1127536696029421325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_22
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa3bd30b4489fb60800000000000000
+      internalID: 7780395288981355261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_23
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f69a808e6d934580800000000000000
+      internalID: -8844052145296992528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42894039c0e774060800000000000000
+      internalID: 6937652343458797604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081a8fb0fd720c020800000000000000
+      internalID: 2359930043674173824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_26
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74626c5fda36c4090800000000000000
+      internalID: -8048948835214023097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_27
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24bb30282b512f40800000000000000
+      internalID: 5701938831125361711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_28
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f152687952ffac860800000000000000
+      internalID: 7551128262161081631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_29
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce5546f7fff72ac0800000000000000
+      internalID: -3879851113502646585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_30
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beada5dfeb9b03a80800000000000000
+      internalID: -8489081067647870229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_31
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b2459584d5991f0800000000000000
+      internalID: -1037695673814471877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_32
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83718a2190346b5d0800000000000000
+      internalID: -3047174391622789320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_33
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89127ca227bbef430800000000000000
+      internalID: 3818695633075118488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_34
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e7269b674fe55a0800000000000000
+      internalID: -6530513618887082394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_35
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 5406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adc1c03204eb2620800000000000000
+      internalID: 2750542695498894752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eca551c9ae95f240800000000000000
+      internalID: 4824937027727633640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_37
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44643f5ac52870270800000000000000
+      internalID: 8216679379593545284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_38
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ab1392e4c156550800000000000000
+      internalID: 6153355587895802474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_39
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef8a7226079f7140800000000000000
+      internalID: 4719656987111624677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_40
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a259d64e2d4efe0800000000000000
+      internalID: -1160570925421876700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_41
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c64a416bec52610800000000000000
+      internalID: 1595908924398398510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_42
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e809ad1b52aeb110800000000000000
+      internalID: 1278637856443140320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_43
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc923b17fc2947850800000000000000
+      internalID: 6373880792299547087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_44
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7ebb3358cd1140800000000000000
+      internalID: 4692126646600104815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_45
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df734bbf9716360e0800000000000000
+      internalID: -2277869809977509891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_46
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b09a58e437b17f0800000000000000
+      internalID: -640791740883072188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_47
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f1605c96b44ab30800000000000000
+      internalID: 4297642862067457878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be421c88942cf5e0800000000000000
+      internalID: -1874583107289329991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f3bf10239c064f0800000000000000
+      internalID: -837448314072121520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_50
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d80a49c291afea0800000000000000
+      internalID: -5838326287669621356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_51
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bf5e13070287010800000000000000
+      internalID: 1186734168057707323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_52
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400061aa6162ee560800000000000000
+      internalID: 7344849921072562180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_53
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cacb8adc6b69a870800000000000000
+      internalID: 8694598670882687687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_54
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9130c4ac1eba8b00800000000000000
+      internalID: 831686111435698588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_55
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63caa3f016e1f8f0800000000000000
+      internalID: -508372322434235540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_56
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfab8b88af4b6acc0800000000000000
+      internalID: -3700071055709652229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_57
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6069358479641cdf0800000000000000
+      internalID: -161770496041183738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_58
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58a2706133eee2f0800000000000000
+      internalID: -941565470862825381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_59
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d72e2e417885e2a0800000000000000
+      internalID: -6708806049674156075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519374e6ea630eb60800000000000000
+      internalID: 7773273079643846933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_61
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137e75be3db7b3b10800000000000000
+      internalID: 1962298212766705457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_62
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066d967e3bbf05280800000000000000
+      internalID: -9056462100541876640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_63
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f5e95d88b670cc0800000000000000
+      internalID: -3744906329691627747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_64
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd8bf0ee4bd294f0800000000000000
+      internalID: -823354650026865212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_65
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09b719443c60b150800000000000000
+      internalID: 5886323684793628943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_66
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8baaecc876985f0800000000000000
+      internalID: -753957608147470082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_67
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2011db26c34d59910800000000000000
+      internalID: 1843612978297770242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_68
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b534aaa2bec607480800000000000000
+      internalID: -8903496706022554789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_69
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656cbd1ddf1c994f0800000000000000
+      internalID: -821412161126676906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_70
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc32125cbc0ed7a0800000000000000
+      internalID: -6350624421575508816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_71
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 3606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095e37c35261e0d00800000000000000
+      internalID: 940713721350841744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d243157cc2c8100800000000000000
+      internalID: 111513325349907856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_73
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564141e154be78820800000000000000
+      internalID: 2920561565462959205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_74
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b566b1efb70ab40800000000000000
+      internalID: 5449491880429902707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_75
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5489454e7ad65a2c0800000000000000
+      internalID: -4421006891336558523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_76
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee95938f201781570800000000000000
+      internalID: 8437618159447005678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_77
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e2816e1cb5820b0800000000000000
+      internalID: -5753247635618648560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_78
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc675df5c46e2480800000000000000
+      internalID: -8922083010252673846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_79
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b27037a188900c70800000000000000
+      internalID: 8935309343326237362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_80
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f568cb6692648b190800000000000000
+      internalID: -7946524398864005537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_81
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77e97f7a678d8bb0800000000000000
+      internalID: -4932137125425846404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_82
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dc556068b969330800000000000000
+      internalID: 3717329542375132479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_83
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 3006
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d38f3d75a48710800000000000000
+      internalID: 1694661317153247621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fe2445eccf320e0800000000000000
+      internalID: -2295713421921685601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_85
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc0875f1a3564940800000000000000
+      internalID: 5279999568211610877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_86
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d09790e0edad610800000000000000
+      internalID: 1646872765627174217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_87
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a4250dda8ebc10800000000000000
+      internalID: 2071245560515700871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_88
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e983a4e0dd51db0800000000000000
+      internalID: -4821704772585742788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_89
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b520e1211335510800000000000000
+      internalID: 1536625851746114401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_90
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5772295188c546a90800000000000000
+      internalID: -7321625354650376331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_91
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5990fb67caa0140800000000000000
+      internalID: 4686747988243617196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_92
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4e8365d74787800800000000000000
+      internalID: 610365831175005413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_93
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48df012a3e2a0df10800000000000000
+      internalID: 2292511308891880836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_94
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e71b342ccaf6560800000000000000
+      internalID: 7309250670604942946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_95
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 2406
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14123eddab91cc7c0800000000000000
+      internalID: -4049833674535657151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94bb186e72bdd040800000000000000
+      internalID: 4674088244262712478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_97
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb1978052d8b8c90800000000000000
+      internalID: -7166479191834551328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_98
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c19cb409c1fec0800000000000000
+      internalID: -3534823210328405852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_99
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fea0091318aa1590800000000000000
+      internalID: -7702659412686491916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_100
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107a80fee2208ccd0800000000000000
+      internalID: -2537775989421201663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_101
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8546e0c6c1079b760800000000000000
+      internalID: 7474128323972326488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_102
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424e88573e7124a40800000000000000
+      internalID: 5350865572966491172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_103
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c210fb69140aa50800000000000000
+      internalID: 6530291575392644136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_104
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaeae3e2878ad270800000000000000
+      internalID: 8276076261486029519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_105
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169d37ba8670d3770800000000000000
+      internalID: 8592031810227263841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_106
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229a14991fa5bc9d0800000000000000
+      internalID: -2753006753502090974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_107
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 1806
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6742fb91aaa3d0800000000000000
+      internalID: -3194563294509176309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c91d7baaf323b0800000000000000
+      internalID: -5538307502290384706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_109
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b9d51872df428e0800000000000000
+      internalID: -1718970811632739482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_110
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28890c968b3d90d40800000000000000
+      internalID: 5551200804712519810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_111
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65fbfda492affdc0800000000000000
+      internalID: -3602982417415277206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_112
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8b3472886ff9440800000000000000
+      internalID: 4944941980510828713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_113
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab7ed100df02a100800000000000000
+      internalID: 117673926324026276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_114
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5034832f6366d4b90800000000000000
+      internalID: -7256031038445960443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_115
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a1c31414783fe40800000000000000
+      internalID: 5689039468636150397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_116
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abea1e208f6b136a0800000000000000
+      internalID: -6471190013238202694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_117
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ebab138f0fb32a0800000000000000
+      internalID: -6756541867162419558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_118
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7394e6c1095499ff0800000000000000
+      internalID: -28915437346600649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_119
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 1206
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf320e4b1a7d3e50800000000000000
+      internalID: 6790718070836051930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6df4a0834a61c1e0800000000000000
+      internalID: -2179343906516959891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_121
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd16f1cace130360800000000000000
+      internalID: 7134580090871356850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_122
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983ef87ab84c6c270800000000000000
+      internalID: 8270513869803217801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_123
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7658b891a518fbe70800000000000000
+      internalID: 9133160793306269031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_124
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ac0081baaa2b960800000000000000
+      internalID: 7616337571655764573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_125
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341b07dc4fcf91400800000000000000
+      internalID: 295545378918412611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_126
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc8772a58688b780800000000000000
+      internalID: -8667029574360003330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_127
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94d3a8e199eaba00800000000000000
+      internalID: 773187098930042011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_128
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe4f3a3dcc1a6c20800000000000000
+      internalID: 3200402152971259636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_129
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3be848246a630d70800000000000000
+      internalID: 9008160658076265278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_130
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73587313de08cfd0800000000000000
+      internalID: -2321589308181949569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_131
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 606
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7205f5dd56cdf20800000000000000
+      internalID: 3448743416120223666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d219b4ee0b911d40800000000000000
+      internalID: 5553390303793713880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_133
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7779d5959e7b58670800000000000000
+      internalID: 8540434481232582519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_134
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363ecd2a2085a7120800000000000000
+      internalID: 2412337318755885923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_135
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec329b6db8343d2b0800000000000000
+      internalID: -5561026846990457906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_136
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd9ae211488037c0800000000000000
+      internalID: -4093622248208163343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_137
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c573c4cadf7e960800000000000000
+      internalID: 7631347010057493613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_138
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6062eb94c629f0800000000000000
+      internalID: -493490935353545643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_139
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f329f659259ba4de0800000000000000
+      internalID: -1348061374098468289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_140
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b1a18d88bcf8360800000000000000
+      internalID: 7174176520026069771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_141
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785ea40ece561e160800000000000000
+      internalID: 7053030559488599431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_142
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5d8bafa19523a10800000000000000
+      internalID: 1887669166232098278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solid_sol_ton_blue_143
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6
+        width: 497
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c7fac2ff0aaba0800000000000000
+      internalID: -6077027211721325063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      solid_sol_ton_blue_0: 7257726043898732366
+      solid_sol_ton_blue_1: 5001846641469793057
+      solid_sol_ton_blue_10: 2314653470000754422
+      solid_sol_ton_blue_100: -2537775989421201663
+      solid_sol_ton_blue_101: 7474128323972326488
+      solid_sol_ton_blue_102: 5350865572966491172
+      solid_sol_ton_blue_103: 6530291575392644136
+      solid_sol_ton_blue_104: 8276076261486029519
+      solid_sol_ton_blue_105: 8592031810227263841
+      solid_sol_ton_blue_106: -2753006753502090974
+      solid_sol_ton_blue_107: -3194563294509176309
+      solid_sol_ton_blue_108: -5538307502290384706
+      solid_sol_ton_blue_109: -1718970811632739482
+      solid_sol_ton_blue_11: -5666599493378418517
+      solid_sol_ton_blue_110: 5551200804712519810
+      solid_sol_ton_blue_111: -3602982417415277206
+      solid_sol_ton_blue_112: 4944941980510828713
+      solid_sol_ton_blue_113: 117673926324026276
+      solid_sol_ton_blue_114: -7256031038445960443
+      solid_sol_ton_blue_115: 5689039468636150397
+      solid_sol_ton_blue_116: -6471190013238202694
+      solid_sol_ton_blue_117: -6756541867162419558
+      solid_sol_ton_blue_118: -28915437346600649
+      solid_sol_ton_blue_119: 6790718070836051930
+      solid_sol_ton_blue_12: 1593849815734702906
+      solid_sol_ton_blue_120: -2179343906516959891
+      solid_sol_ton_blue_121: 7134580090871356850
+      solid_sol_ton_blue_122: 8270513869803217801
+      solid_sol_ton_blue_123: 9133160793306269031
+      solid_sol_ton_blue_124: 7616337571655764573
+      solid_sol_ton_blue_125: 295545378918412611
+      solid_sol_ton_blue_126: -8667029574360003330
+      solid_sol_ton_blue_127: 773187098930042011
+      solid_sol_ton_blue_128: 3200402152971259636
+      solid_sol_ton_blue_129: 9008160658076265278
+      solid_sol_ton_blue_13: 974342976474961512
+      solid_sol_ton_blue_130: -2321589308181949569
+      solid_sol_ton_blue_131: 3448743416120223666
+      solid_sol_ton_blue_132: 5553390303793713880
+      solid_sol_ton_blue_133: 8540434481232582519
+      solid_sol_ton_blue_134: 2412337318755885923
+      solid_sol_ton_blue_135: -5561026846990457906
+      solid_sol_ton_blue_136: -4093622248208163343
+      solid_sol_ton_blue_137: 7631347010057493613
+      solid_sol_ton_blue_138: -493490935353545643
+      solid_sol_ton_blue_139: -1348061374098468289
+      solid_sol_ton_blue_14: -2338457901642113232
+      solid_sol_ton_blue_140: 7174176520026069771
+      solid_sol_ton_blue_141: 7053030559488599431
+      solid_sol_ton_blue_142: 1887669166232098278
+      solid_sol_ton_blue_143: -6077027211721325063
+      solid_sol_ton_blue_15: 7907483549088393143
+      solid_sol_ton_blue_16: 6094032110597959089
+      solid_sol_ton_blue_17: -7712278007002436495
+      solid_sol_ton_blue_18: -4281527241395648383
+      solid_sol_ton_blue_19: -4874089779672959784
+      solid_sol_ton_blue_2: 8500451811626996278
+      solid_sol_ton_blue_20: -8348584367424307530
+      solid_sol_ton_blue_21: -1127536696029421325
+      solid_sol_ton_blue_22: 7780395288981355261
+      solid_sol_ton_blue_23: -8844052145296992528
+      solid_sol_ton_blue_24: 6937652343458797604
+      solid_sol_ton_blue_25: 2359930043674173824
+      solid_sol_ton_blue_26: -8048948835214023097
+      solid_sol_ton_blue_27: 5701938831125361711
+      solid_sol_ton_blue_28: 7551128262161081631
+      solid_sol_ton_blue_29: -3879851113502646585
+      solid_sol_ton_blue_3: 3756105188500660767
+      solid_sol_ton_blue_30: -8489081067647870229
+      solid_sol_ton_blue_31: -1037695673814471877
+      solid_sol_ton_blue_32: -3047174391622789320
+      solid_sol_ton_blue_33: 3818695633075118488
+      solid_sol_ton_blue_34: -6530513618887082394
+      solid_sol_ton_blue_35: 2750542695498894752
+      solid_sol_ton_blue_36: 4824937027727633640
+      solid_sol_ton_blue_37: 8216679379593545284
+      solid_sol_ton_blue_38: 6153355587895802474
+      solid_sol_ton_blue_39: 4719656987111624677
+      solid_sol_ton_blue_4: 5356601359462833734
+      solid_sol_ton_blue_40: -1160570925421876700
+      solid_sol_ton_blue_41: 1595908924398398510
+      solid_sol_ton_blue_42: 1278637856443140320
+      solid_sol_ton_blue_43: 6373880792299547087
+      solid_sol_ton_blue_44: 4692126646600104815
+      solid_sol_ton_blue_45: -2277869809977509891
+      solid_sol_ton_blue_46: -640791740883072188
+      solid_sol_ton_blue_47: 4297642862067457878
+      solid_sol_ton_blue_48: -1874583107289329991
+      solid_sol_ton_blue_49: -837448314072121520
+      solid_sol_ton_blue_5: -1344811266419336716
+      solid_sol_ton_blue_50: -5838326287669621356
+      solid_sol_ton_blue_51: 1186734168057707323
+      solid_sol_ton_blue_52: 7344849921072562180
+      solid_sol_ton_blue_53: 8694598670882687687
+      solid_sol_ton_blue_54: 831686111435698588
+      solid_sol_ton_blue_55: -508372322434235540
+      solid_sol_ton_blue_56: -3700071055709652229
+      solid_sol_ton_blue_57: -161770496041183738
+      solid_sol_ton_blue_58: -941565470862825381
+      solid_sol_ton_blue_59: -6708806049674156075
+      solid_sol_ton_blue_6: -6523717252739591088
+      solid_sol_ton_blue_60: 7773273079643846933
+      solid_sol_ton_blue_61: 1962298212766705457
+      solid_sol_ton_blue_62: -9056462100541876640
+      solid_sol_ton_blue_63: -3744906329691627747
+      solid_sol_ton_blue_64: -823354650026865212
+      solid_sol_ton_blue_65: 5886323684793628943
+      solid_sol_ton_blue_66: -753957608147470082
+      solid_sol_ton_blue_67: 1843612978297770242
+      solid_sol_ton_blue_68: -8903496706022554789
+      solid_sol_ton_blue_69: -821412161126676906
+      solid_sol_ton_blue_7: -1749595302430296803
+      solid_sol_ton_blue_70: -6350624421575508816
+      solid_sol_ton_blue_71: 940713721350841744
+      solid_sol_ton_blue_72: 111513325349907856
+      solid_sol_ton_blue_73: 2920561565462959205
+      solid_sol_ton_blue_74: 5449491880429902707
+      solid_sol_ton_blue_75: -4421006891336558523
+      solid_sol_ton_blue_76: 8437618159447005678
+      solid_sol_ton_blue_77: -5753247635618648560
+      solid_sol_ton_blue_78: -8922083010252673846
+      solid_sol_ton_blue_79: 8935309343326237362
+      solid_sol_ton_blue_8: -4456965144730437349
+      solid_sol_ton_blue_80: -7946524398864005537
+      solid_sol_ton_blue_81: -4932137125425846404
+      solid_sol_ton_blue_82: 3717329542375132479
+      solid_sol_ton_blue_83: 1694661317153247621
+      solid_sol_ton_blue_84: -2295713421921685601
+      solid_sol_ton_blue_85: 5279999568211610877
+      solid_sol_ton_blue_86: 1646872765627174217
+      solid_sol_ton_blue_87: 2071245560515700871
+      solid_sol_ton_blue_88: -4821704772585742788
+      solid_sol_ton_blue_89: 1536625851746114401
+      solid_sol_ton_blue_9: 4882080301284954042
+      solid_sol_ton_blue_90: -7321625354650376331
+      solid_sol_ton_blue_91: 4686747988243617196
+      solid_sol_ton_blue_92: 610365831175005413
+      solid_sol_ton_blue_93: 2292511308891880836
+      solid_sol_ton_blue_94: 7309250670604942946
+      solid_sol_ton_blue_95: -4049833674535657151
+      solid_sol_ton_blue_96: 4674088244262712478
+      solid_sol_ton_blue_97: -7166479191834551328
+      solid_sol_ton_blue_98: -3534823210328405852
+      solid_sol_ton_blue_99: -7702659412686491916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
