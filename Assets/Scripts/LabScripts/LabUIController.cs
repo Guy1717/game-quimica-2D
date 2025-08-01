@@ -9,6 +9,7 @@ namespace LabScripts
         public GameObject solutionAnimationPanel;
         public GameObject confirmationPanel;
         public TextMeshProUGUI confirmationPanelText;
+        public TextMeshProUGUI solutionAnimationText;
 
         [HideInInspector]
         public string currentItemName;
@@ -53,7 +54,7 @@ namespace LabScripts
 
             HideConfirmationPanel();
 
-            StartCoroutine(WaitAndCloseSolutionPanel());
+            // StartCoroutine(WaitAndCloseSolutionPanel());
         }
 
         public void HideSolutionAnimationPanel()
